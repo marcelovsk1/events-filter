@@ -23,3 +23,7 @@ events_data = [
     {"title": "Rocket de Laval vs. Belleville Senators", "date": "Dec 6", "time": "Wed • 7:00pm" },
     {"title": "Rocket de Laval vs. Hartford Wolf Pack", "date": "Dec 8", "time": "Fri • 7:00pm"}
 ]
+
+events = [Event(event["title"], event["date"], event["time"]) for event in events_data]
+
+filtered_events = filter_duplicate_events(events)
