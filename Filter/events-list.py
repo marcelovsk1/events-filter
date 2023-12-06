@@ -27,3 +27,6 @@ events_data = [
 events = [Event(event["title"], event["date"], event["time"]) for event in events_data]
 
 filtered_events = filter_duplicate_events(events)
+
+for event in filtered_events:
+    print(f"Title: {event.title}, Date: {event.date}, Time: {event.time}")
