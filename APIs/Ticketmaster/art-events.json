@@ -1,0 +1,2127 @@
+{
+  "range": "'Página1'!A1:Z1000",
+  "majorDimension": "ROWS",
+  "values": [
+    [
+      "Event Title ",
+      "Date",
+      "Time",
+      "Image",
+      "Link"
+    ],
+    [
+      "Chelsea Handler, Little Big Bitch - platine officiels",
+      "Dec 6",
+      "Wed • 8:00pm",
+      "https://s1.ticketm.net/dam/a/87a/df28b3ae-3e6d-4437-acd9-42fcdef8387a_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/chelsea-handler-little-big-bitch-platine-montreal-quebec-12-06-2023/event/31005E8D7FF412A4"
+    ],
+    [
+      "Chelsea Handler: Little Big Bitch",
+      "Dec 6",
+      "Wed • 8:00pm",
+      "https://s1.ticketm.net/dam/a/87a/df28b3ae-3e6d-4437-acd9-42fcdef8387a_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://evenko.ca/en/events/53209"
+    ],
+    [
+      "Lise DionCanceled",
+      "Dec 6",
+      "Wed • 8:00pm",
+      "https://s1.ticketm.net/dam/a/d7f/22335fe0-0bcd-4e60-a560-0b102bd37d7f_709481_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/lise-dion-brossard-quebec-12-06-2023/event/31005EAFC04F26DC"
+    ],
+    [
+      "Louis Morissette.",
+      "Dec 6",
+      "Wed • 8:00pm",
+      "https://s1.ticketm.net/dam/a/5a0/82c4c6e6-ae28-4847-a161-cba4809a75a0_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/louis-morissette-brossard-quebec-12-06-2023/event/31005E7F9690277A"
+    ],
+    [
+      "Rosalie Vaillancourt",
+      "Dec 7",
+      "Thu • 8:00pm",
+      "https://s1.ticketm.net/dam/a/8cd/e2af3a34-8afe-477c-ac05-f470741fb8cd_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/rosalie-vaillancourt-brossard-quebec-12-07-2023/event/31005F2D8FFA15B5"
+    ],
+    [
+      "Simon Gouache - Live",
+      "Dec 8",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/50d/e84ca42f-c503-42ed-be1c-f0c4a207750d_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/simon-gouache-live-brossard-quebec-12-08-2023/event/31005EBAC6372F71"
+    ],
+    [
+      "Jo Cormier",
+      "Dec 9",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/7d5/d7a82228-0e1e-4eef-bbbe-b5ff049d27d5_1612761_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/jo-cormier-laprairie-quebec-12-09-2023/event/31005E562A2367CD"
+    ],
+    [
+      "Christine Morency",
+      "Dec 13",
+      "Wed • 8:00pm",
+      "https://s1.ticketm.net/dam/a/68e/b7b869f2-48cd-4081-948c-78e04026a68e_1567901_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/christine-morency-brossard-quebec-12-13-2023/event/31005E6DE01D3A11"
+    ],
+    [
+      "Casse-NoisetteNew date",
+      "Dec 14",
+      "Thu • 7:30pm",
+      "https://s1.ticketm.net/dam/a/e1a/2361392c-7a5a-42a7-94b7-fbe744425e1a_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://am.ticketmaster.com/grandsballets/virtual-venue/RzNXMTIxNFM="
+    ],
+    [
+      "Christine Morency",
+      "Dec 14",
+      "Thu • 8:00pm",
+      "https://s1.ticketm.net/dam/a/68e/b7b869f2-48cd-4081-948c-78e04026a68e_1567901_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/christine-morency-brossard-quebec-12-14-2023/event/31005E6E8AC3185B"
+    ],
+    [
+      "Casse-NoisetteNew date",
+      "Dec 15",
+      "Fri • 7:30pm",
+      "https://s1.ticketm.net/dam/a/e1a/2361392c-7a5a-42a7-94b7-fbe744425e1a_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://am.ticketmaster.com/grandsballets/virtual-venue/RzNXMTIxNVM="
+    ],
+    [
+      "Casse-NoisetteNew date",
+      "Dec 16",
+      "Sat • 2:00pm",
+      "https://s1.ticketm.net/dam/a/e1a/2361392c-7a5a-42a7-94b7-fbe744425e1a_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://am.ticketmaster.com/grandsballets/virtual-venue/RzNXMTIxNk0="
+    ],
+    [
+      "Casse-NoisetteNew date",
+      "Dec 16",
+      "Sat • 7:30pm",
+      "https://s1.ticketm.net/dam/a/e1a/2361392c-7a5a-42a7-94b7-fbe744425e1a_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://am.ticketmaster.com/grandsballets/virtual-venue/RzNXMTIxNlM="
+    ],
+    [
+      "Casse-NoisetteNew date",
+      "Dec 17",
+      "Sun • 2:00pm",
+      "https://s1.ticketm.net/dam/a/e1a/2361392c-7a5a-42a7-94b7-fbe744425e1a_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://am.ticketmaster.com/grandsballets/virtual-venue/RzNXMTIxN00="
+    ],
+    [
+      "Roman Frayssinet",
+      "Dec 19",
+      "Tue • 8:00pm",
+      "https://s1.ticketm.net/dam/a/711/ee8e11db-9145-4d28-b3ab-a78d1c145711_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/roman-frayssinet-montreal-quebec-12-19-2023/event/31005E94EF165F3A"
+    ],
+    [
+      "Casse-NoisetteNew date",
+      "Dec 20",
+      "Wed • 7:30pm",
+      "https://s1.ticketm.net/dam/a/e1a/2361392c-7a5a-42a7-94b7-fbe744425e1a_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://am.ticketmaster.com/grandsballets/virtual-venue/RzNXMTIyMFM="
+    ],
+    [
+      "Roman Frayssinet",
+      "Dec 20",
+      "Wed • 8:00pm",
+      "https://s1.ticketm.net/dam/a/711/ee8e11db-9145-4d28-b3ab-a78d1c145711_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/roman-frayssinet-montreal-quebec-12-20-2023/event/31005E94F4AC614C"
+    ],
+    [
+      "Guy Nantel",
+      "Dec 20",
+      "Wed • 8:00pm",
+      "https://s1.ticketm.net/dam/a/278/3ce1ad34-0b17-4118-b234-2b3790d72278_1569051_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/guy-nantel-brossard-quebec-12-20-2023/event/31005EB3BB8A4892"
+    ],
+    [
+      "Cirque du Soleil: Crystal",
+      "Dec 21",
+      "Thu • 7:30pm",
+      "https://s1.ticketm.net/dam/a/cbd/adcb8eac-8c05-4944-a011-aecfe0cbecbd_1736551_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/cirque-du-soleil-crystal-montreal-quebec-12-21-2023/event/31005F157B8C0DCD"
+    ],
+    [
+      "Casse-NoisetteNew date",
+      "Dec 21",
+      "Thu • 7:30pm",
+      "https://s1.ticketm.net/dam/a/e1a/2361392c-7a5a-42a7-94b7-fbe744425e1a_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://am.ticketmaster.com/grandsballets/virtual-venue/RzNXMTIyMVM="
+    ],
+    [
+      "Roman Frayssinet",
+      "Dec 21",
+      "Thu • 8:00pm",
+      "https://s1.ticketm.net/dam/a/711/ee8e11db-9145-4d28-b3ab-a78d1c145711_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/roman-frayssinet-montreal-quebec-12-21-2023/event/31005E94F66B625F"
+    ],
+    [
+      "Billy Tellier",
+      "Dec 21",
+      "Thu • 8:00pm",
+      "https://s1.ticketm.net/dam/a/eb3/8c8636f8-9633-4482-bdc0-96484af0ceb3_915531_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/billy-tellier-brossard-quebec-12-21-2023/event/31005F098E681795"
+    ],
+    [
+      "Casse-NoisetteNew date",
+      "Dec 22",
+      "Fri • 2:00pm",
+      "https://s1.ticketm.net/dam/a/e1a/2361392c-7a5a-42a7-94b7-fbe744425e1a_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://am.ticketmaster.com/grandsballets/virtual-venue/RzNXMTIyMk0="
+    ],
+    [
+      "Cirque du Soleil: Crystal",
+      "Dec 22",
+      "Fri • 3:30pm",
+      "https://s1.ticketm.net/dam/a/cbd/adcb8eac-8c05-4944-a011-aecfe0cbecbd_1736551_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/cirque-du-soleil-crystal-montreal-quebec-12-22-2023/event/31005F157B8F0DD0"
+    ],
+    [
+      "Cirque du Soleil: Crystal",
+      "Dec 22",
+      "Fri • 7:30pm",
+      "https://s1.ticketm.net/dam/a/cbd/adcb8eac-8c05-4944-a011-aecfe0cbecbd_1736551_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/cirque-du-soleil-crystal-montreal-quebec-12-22-2023/event/31005E6EC55B2EE6"
+    ],
+    [
+      "Casse-NoisetteNew date",
+      "Dec 22",
+      "Fri • 7:30pm",
+      "https://s1.ticketm.net/dam/a/e1a/2361392c-7a5a-42a7-94b7-fbe744425e1a_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://am.ticketmaster.com/grandsballets/virtual-venue/RzNXMTIyMlM="
+    ],
+    [
+      "Lise DionCanceled",
+      "Dec 22",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/d7f/22335fe0-0bcd-4e60-a560-0b102bd37d7f_709481_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/lise-dion-brossard-quebec-12-22-2023/event/31005EAFC2D927EC"
+    ],
+    [
+      "Nicolas Noel",
+      "Dec 23",
+      "Sat • 11:00am",
+      "https://s1.ticketm.net/dam/a/46a/1e947e9c-e0b2-4a72-a7d2-93221326846a_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/nicolas-noel-brossard-quebec-12-23-2023/event/31005F63A6E32B9E"
+    ],
+    [
+      "Casse-NoisetteNew date",
+      "Dec 23",
+      "Sat • 2:00pm",
+      "https://s1.ticketm.net/dam/a/e1a/2361392c-7a5a-42a7-94b7-fbe744425e1a_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://am.ticketmaster.com/grandsballets/virtual-venue/RzNXMTIyM00="
+    ],
+    [
+      "Nicolas Noel",
+      "Dec 23",
+      "Sat • 3:00pm",
+      "https://s1.ticketm.net/dam/a/46a/1e947e9c-e0b2-4a72-a7d2-93221326846a_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/nicolas-noel-brossard-quebec-12-23-2023/event/31005F28BE7A2CDE"
+    ],
+    [
+      "Cirque du Soleil: Crystal",
+      "Dec 23",
+      "Sat • 3:30pm",
+      "https://s1.ticketm.net/dam/a/cbd/adcb8eac-8c05-4944-a011-aecfe0cbecbd_1736551_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/cirque-du-soleil-crystal-montreal-quebec-12-23-2023/event/31005E6EC55D2EE8"
+    ],
+    [
+      "Cirque du Soleil: Crystal",
+      "Dec 23",
+      "Sat • 7:30pm",
+      "https://s1.ticketm.net/dam/a/cbd/adcb8eac-8c05-4944-a011-aecfe0cbecbd_1736551_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/cirque-du-soleil-crystal-montreal-quebec-12-23-2023/event/31005E6EC55F2EF7"
+    ],
+    [
+      "Casse-NoisetteNew date",
+      "Dec 23",
+      "Sat • 7:30pm",
+      "https://s1.ticketm.net/dam/a/e1a/2361392c-7a5a-42a7-94b7-fbe744425e1a_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://am.ticketmaster.com/grandsballets/virtual-venue/RzNXMTIyM1M="
+    ],
+    [
+      "Cirque du Soleil: Crystal",
+      "Dec 24",
+      "Sun • 1:00pm",
+      "https://s1.ticketm.net/dam/a/cbd/adcb8eac-8c05-4944-a011-aecfe0cbecbd_1736551_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/cirque-du-soleil-crystal-montreal-quebec-12-24-2023/event/31005E6EC5612F02"
+    ],
+    [
+      "Casse-NoisetteNew date",
+      "Dec 26",
+      "Tue • 2:00pm",
+      "https://s1.ticketm.net/dam/a/e1a/2361392c-7a5a-42a7-94b7-fbe744425e1a_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://am.ticketmaster.com/grandsballets/virtual-venue/RzNXMTIyNk0="
+    ],
+    [
+      "Cirque du Soleil: Crystal",
+      "Dec 26",
+      "Tue • 3:30pm",
+      "https://s1.ticketm.net/dam/a/cbd/adcb8eac-8c05-4944-a011-aecfe0cbecbd_1736551_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/cirque-du-soleil-crystal-montreal-quebec-12-26-2023/event/31005E6EC5632F14"
+    ],
+    [
+      "Cirque du Soleil: Crystal",
+      "Dec 26",
+      "Tue • 7:30pm",
+      "https://s1.ticketm.net/dam/a/cbd/adcb8eac-8c05-4944-a011-aecfe0cbecbd_1736551_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/cirque-du-soleil-crystal-montreal-quebec-12-26-2023/event/31005E6EC5662F16"
+    ],
+    [
+      "Casse-NoisetteNew date",
+      "Dec 27",
+      "Wed • 2:00pm",
+      "https://s1.ticketm.net/dam/a/e1a/2361392c-7a5a-42a7-94b7-fbe744425e1a_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://am.ticketmaster.com/grandsballets/virtual-venue/RzNXMTIyN00="
+    ],
+    [
+      "Cirque du Soleil: Crystal",
+      "Dec 27",
+      "Wed • 7:30pm",
+      "https://s1.ticketm.net/dam/a/cbd/adcb8eac-8c05-4944-a011-aecfe0cbecbd_1736551_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/cirque-du-soleil-crystal-montreal-quebec-12-27-2023/event/31005E6EC5682F20"
+    ],
+    [
+      "Casse-NoisetteNew date",
+      "Dec 27",
+      "Wed • 7:30pm",
+      "https://s1.ticketm.net/dam/a/e1a/2361392c-7a5a-42a7-94b7-fbe744425e1a_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://am.ticketmaster.com/grandsballets/virtual-venue/RzNXMTIyN1M="
+    ],
+    [
+      "Dominic Paquet",
+      "Dec 27",
+      "Wed • 8:00pm",
+      "https://s1.ticketm.net/dam/a/030/ab30f67e-0518-4b4f-bf50-bbfb8f735030_1288911_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/dominic-paquet-brossard-quebec-12-27-2023/event/31005F219FE62269"
+    ],
+    [
+      "Casse-NoisetteNew date",
+      "Dec 28",
+      "Thu • 2:00pm",
+      "https://s1.ticketm.net/dam/a/e1a/2361392c-7a5a-42a7-94b7-fbe744425e1a_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://am.ticketmaster.com/grandsballets/virtual-venue/RzNXMTIyOE0="
+    ],
+    [
+      "Cirque du Soleil: Crystal",
+      "Dec 28",
+      "Thu • 7:30pm",
+      "https://s1.ticketm.net/dam/a/cbd/adcb8eac-8c05-4944-a011-aecfe0cbecbd_1736551_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/cirque-du-soleil-crystal-montreal-quebec-12-28-2023/event/31005E6EC56B2F22"
+    ],
+    [
+      "Rachid Badouri",
+      "Dec 28",
+      "Thu • 8:00pm",
+      "https://s1.ticketm.net/dam/a/bdb/ae239308-8e93-4703-93a8-a8bb88988bdb_1171991_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/rachid-badouri-montreal-quebec-12-28-2023/event/31005E5499281C4A"
+    ],
+    [
+      "Dominic Paquet",
+      "Dec 28",
+      "Thu • 8:00pm",
+      "https://s1.ticketm.net/dam/a/030/ab30f67e-0518-4b4f-bf50-bbfb8f735030_1288911_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/dominic-paquet-brossard-quebec-12-28-2023/event/31005F21BE4A2AB2"
+    ],
+    [
+      "Casse-NoisetteNew date",
+      "Dec 29",
+      "Fri • 2:00pm",
+      "https://s1.ticketm.net/dam/a/e1a/2361392c-7a5a-42a7-94b7-fbe744425e1a_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://am.ticketmaster.com/grandsballets/virtual-venue/RzNXMTIyOU0="
+    ],
+    [
+      "Cirque du Soleil: Crystal",
+      "Dec 29",
+      "Fri • 3:00pm",
+      "https://s1.ticketm.net/dam/a/cbd/adcb8eac-8c05-4944-a011-aecfe0cbecbd_1736551_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/cirque-du-soleil-crystal-montreal-quebec-12-29-2023/event/31005E6EC56D2F26"
+    ],
+    [
+      "Cirque du Soleil: Crystal",
+      "Dec 29",
+      "Fri • 7:00pm",
+      "https://s1.ticketm.net/dam/a/cbd/adcb8eac-8c05-4944-a011-aecfe0cbecbd_1736551_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/cirque-du-soleil-crystal-montreal-quebec-12-29-2023/event/31005E6EC5702F29"
+    ],
+    [
+      "Casse-NoisetteNew date",
+      "Dec 29",
+      "Fri • 7:30pm",
+      "https://s1.ticketm.net/dam/a/e1a/2361392c-7a5a-42a7-94b7-fbe744425e1a_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://am.ticketmaster.com/grandsballets/virtual-venue/RzNXMTIyOVM="
+    ],
+    [
+      "Rachid Badouri",
+      "Dec 29",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/bdb/ae239308-8e93-4703-93a8-a8bb88988bdb_1171991_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/rachid-badouri-montreal-quebec-12-29-2023/event/31005E549AAA1CBE"
+    ],
+    [
+      "Cirque du Soleil: Crystal",
+      "Dec 30",
+      "Sat • 11:30am",
+      "https://s1.ticketm.net/dam/a/cbd/adcb8eac-8c05-4944-a011-aecfe0cbecbd_1736551_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/cirque-du-soleil-crystal-montreal-quebec-12-30-2023/event/31005E71C54466C1"
+    ],
+    [
+      "Casse-NoisetteNew date",
+      "Dec 30",
+      "Sat • 2:00pm",
+      "https://s1.ticketm.net/dam/a/e1a/2361392c-7a5a-42a7-94b7-fbe744425e1a_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://am.ticketmaster.com/grandsballets/virtual-venue/RzNXMTIzME0="
+    ],
+    [
+      "Cirque du Soleil: Crystal",
+      "Dec 30",
+      "Sat • 3:30pm",
+      "https://s1.ticketm.net/dam/a/cbd/adcb8eac-8c05-4944-a011-aecfe0cbecbd_1736551_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/cirque-du-soleil-crystal-montreal-quebec-12-30-2023/event/31005E6EC5722F2B"
+    ],
+    [
+      "Cirque du Soleil: Crystal",
+      "Dec 30",
+      "Sat • 7:30pm",
+      "https://s1.ticketm.net/dam/a/cbd/adcb8eac-8c05-4944-a011-aecfe0cbecbd_1736551_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/cirque-du-soleil-crystal-montreal-quebec-12-30-2023/event/31005E6EC5742F46"
+    ],
+    [
+      "Casse-NoisetteNew date",
+      "Dec 30",
+      "Sat • 7:30pm",
+      "https://s1.ticketm.net/dam/a/e1a/2361392c-7a5a-42a7-94b7-fbe744425e1a_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://am.ticketmaster.com/grandsballets/virtual-venue/RzNXMTIzMFM="
+    ],
+    [
+      "Cirque du Soleil: Crystal",
+      "Dec 31",
+      "Sun • 1:00pm",
+      "https://s1.ticketm.net/dam/a/cbd/adcb8eac-8c05-4944-a011-aecfe0cbecbd_1736551_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/cirque-du-soleil-crystal-montreal-quebec-12-31-2023/event/31005E6EC5762F4D"
+    ],
+    [
+      "Billet Expérience pour le 31 décembre",
+      "Dec 31",
+      "Sun • 2:00pm",
+      "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/billet-experience-pour-le-31-decembre-montreal-quebec-12-31-2023/event/31005F69C5FF2DF9"
+    ],
+    [
+      "Laurent Paquin",
+      "jan. 4, 2024",
+      "Thu • 8:00pm",
+      "https://s1.ticketm.net/dam/a/09b/31287a11-4ab2-43ae-8fad-fe4e2177209b_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/laurent-paquin-brossard-quebec-01-04-2024/event/31005F66BBF02F65"
+    ],
+    [
+      "Jeremy Demay",
+      "jan. 5, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/4be/9e716206-fc50-4613-9481-9df5554224be_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/jeremy-demay-montreal-quebec-01-05-2024/event/31005EAAE7D06914"
+    ],
+    [
+      "Laurent Paquin",
+      "jan. 5, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/09b/31287a11-4ab2-43ae-8fad-fe4e2177209b_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/laurent-paquin-brossard-quebec-01-05-2024/event/31005EEACAF827B5"
+    ],
+    [
+      "Jeremy Demay",
+      "jan. 6, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/4be/9e716206-fc50-4613-9481-9df5554224be_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/jeremy-demay-montreal-quebec-01-06-2024/event/31005EAAEB156AF1"
+    ],
+    [
+      "Come from Away",
+      "jan. 10, 2024",
+      "Wed • 7:30pm",
+      "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1Ad-M78?tmrid=TMR-3877110&routing=y"
+    ],
+    [
+      "Come from Away",
+      "jan. 11, 2024",
+      "Thu • 7:30pm",
+      "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1Adxk0J?tmrid=TMR-3886926&routing=y"
+    ],
+    [
+      "Christine Morency",
+      "jan. 11, 2024",
+      "Thu • 8:00pm",
+      "https://s1.ticketm.net/dam/a/68e/b7b869f2-48cd-4081-948c-78e04026a68e_1567901_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/christine-morency-montreal-quebec-01-11-2024/event/31005E91DE2A23E0"
+    ],
+    [
+      "Michelle Desrochers",
+      "jan. 11, 2024",
+      "Thu • 8:00pm",
+      "https://s1.ticketm.net/dam/a/b7a/98ba7953-87a5-4aa4-9ae6-c97af9c34b7a_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/michelle-desrochers-brossard-quebec-01-11-2024/event/31005EEACC302808"
+    ],
+    [
+      "Louis-Jose Houde - Tu n'es pas special (Le Show cache 3)",
+      "jan. 12, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/333/421271a4-c3fc-477a-8140-532a61f2a333_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/louisjose-houde-tu-nes-pas-special-montreal-quebec-01-12-2024/event/31005F58D41F362D"
+    ],
+    [
+      "Christine Morency",
+      "jan. 12, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/68e/b7b869f2-48cd-4081-948c-78e04026a68e_1567901_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/christine-morency-montreal-quebec-01-12-2024/event/31005F26928D14E8"
+    ],
+    [
+      "Simon Gouache",
+      "jan. 12, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/50d/e84ca42f-c503-42ed-be1c-f0c4a207750d_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/simon-gouache-brossard-quebec-01-12-2024/event/31005F46D93A3500"
+    ],
+    [
+      "Simon Gouache",
+      "jan. 13, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/50d/e84ca42f-c503-42ed-be1c-f0c4a207750d_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/simon-gouache-montreal-quebec-01-13-2024/event/31005F51DB5A3064"
+    ],
+    [
+      "Jeremy Demay - Naturel",
+      "jan. 13, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/4be/9e716206-fc50-4613-9481-9df5554224be_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/jeremy-demay-naturel-laprairie-quebec-01-13-2024/event/31005E5629FC67BD"
+    ],
+    [
+      "Maude Landry",
+      "jan. 13, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/fa9/737bbba6-7545-4b09-9b52-b35fcfd2bfa9_1480901_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/maude-landry-brossard-quebec-01-13-2024/event/31005F19A8A72E57"
+    ],
+    [
+      "Manikanetish",
+      "jan. 16, 2024",
+      "Tue • 8:00pm",
+      "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/manikanetish-brossard-quebec-01-16-2024/event/31005E6E98121CFD"
+    ],
+    [
+      "Christine Morency",
+      "jan. 17, 2024",
+      "Wed • 8:00pm",
+      "https://s1.ticketm.net/dam/a/68e/b7b869f2-48cd-4081-948c-78e04026a68e_1567901_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/christine-morency-brossard-quebec-01-17-2024/event/31005F28C04E2D80"
+    ],
+    [
+      "Afonso Padilha",
+      "jan. 17, 2024",
+      "Wed • 9:00pm",
+      "https://s1.ticketm.net/dam/a/84c/96fb3b2a-4ccd-4fb1-871e-28f9b9b6384c_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/afonso-padilha-montreal-quebec-01-17-2024/event/31005F52890E1695"
+    ],
+    [
+      "Christine Morency",
+      "jan. 18, 2024",
+      "Thu • 8:00pm",
+      "https://s1.ticketm.net/dam/a/68e/b7b869f2-48cd-4081-948c-78e04026a68e_1567901_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/christine-morency-brossard-quebec-01-18-2024/event/31005F28C1802E28"
+    ],
+    [
+      "Nataly Aukar: My Turn To Talk",
+      "jan. 19, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/nataly-aukar-my-turn-to-talk-montreal-quebec-01-19-2024/event/31005F77A8F72BCA"
+    ],
+    [
+      "Mariana Mazza",
+      "jan. 19, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/b2e/f4598903-3e3b-4115-86c9-e8ce56c6fb2e_1612751_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/mariana-mazza-montreal-quebec-01-19-2024/event/31005EAA07A9727A"
+    ],
+    [
+      "Sam Breton - Au pic pis à pelleNew date",
+      "jan. 19, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/8a8/3bfc3e0c-acc3-4683-a74a-21f3d0b1b8a8_887691_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/sam-breton-au-pic-pis-a-montreal-quebec-01-19-2024/event/31005F7EB25029A1"
+    ],
+    [
+      "Fabien Cloutier",
+      "jan. 20, 2024",
+      "Sat • 3:00pm",
+      "https://s1.ticketm.net/dam/a/10a/cb6c2f87-e145-4d81-af93-2231e317010a_1658011_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/fabien-cloutier-brossard-quebec-01-20-2024/event/31005F46DB8135E1"
+    ],
+    [
+      "Sam Breton - Au pic pis à pelle",
+      "jan. 20, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/8a8/3bfc3e0c-acc3-4683-a74a-21f3d0b1b8a8_887691_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/sam-breton-au-pic-pis-a-montreal-quebec-01-20-2024/event/31005F4B98E51FB1"
+    ],
+    [
+      "Fabien Cloutier",
+      "jan. 20, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/10a/cb6c2f87-e145-4d81-af93-2231e317010a_1658011_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/fabien-cloutier-brossard-quebec-01-20-2024/event/31005E91D39521A8"
+    ],
+    [
+      "Dominic et Martin",
+      "jan. 20, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/e8c/055c4c69-3665-47ee-8de0-61653a796e8c_1705631_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/dominic-et-martin-brossard-quebec-01-20-2024/event/31005E30C34A2950"
+    ],
+    [
+      "Fabien CloutierPresale:\n Thu • Dec 7 • 2 PM",
+      "jan. 21, 2024",
+      "Sun • 3:00pm",
+      "https://s1.ticketm.net/dam/a/10a/cb6c2f87-e145-4d81-af93-2231e317010a_1658011_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/fabien-cloutier-brossard-quebec-01-21-2024/event/31005F81D8BF451C"
+    ],
+    [
+      "Eve Côté",
+      "jan. 25, 2024",
+      "Thu • 8:00pm",
+      "https://s1.ticketm.net/dam/a/d2b/fb48d070-5437-475d-b26c-c8d2b31f7d2b_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/eve-cote-brossard-quebec-01-25-2024/event/31005EB3C8315001"
+    ],
+    [
+      "Matthieu Pepper",
+      "jan. 26, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/34e/17cdf0fe-c2ae-4fa8-aa20-11ace4b6e34e_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/matthieu-pepper-laprairie-quebec-01-26-2024/event/31005E562961679F"
+    ],
+    [
+      "PIERRE-LUC POMERLEAU",
+      "jan. 26, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/d3c/0968d4cb-f1f4-400b-809f-b14aef80dd3c_1817861_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/pierreluc-pomerleau-brossard-quebec-01-26-2024/event/31005F399AEF20FE"
+    ],
+    [
+      "Simon Gouache - Live",
+      "jan. 27, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/50d/e84ca42f-c503-42ed-be1c-f0c4a207750d_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/simon-gouache-live-montreal-quebec-01-27-2024/event/31005F6270E61490"
+    ],
+    [
+      "PIERRE-LUC POMERLEAU",
+      "jan. 27, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/d3c/0968d4cb-f1f4-400b-809f-b14aef80dd3c_1817861_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/pierreluc-pomerleau-brossard-quebec-01-27-2024/event/31005F74A00F1CB1"
+    ],
+    [
+      "Anas Hassouna",
+      "jan. 27, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/4da/e44d105d-7f3e-4211-879e-0a0d1dc4e4da_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/anas-hassouna-brossard-quebec-01-27-2024/event/31005EDA9A62130D"
+    ],
+    [
+      "Philippe Laprise: Pourquoi pas",
+      "jan. 28, 2024",
+      "Sun • 8:00pm",
+      "https://s1.ticketm.net/dam/a/555/6c795e4b-20fe-46fe-a139-c53440e06555_1624281_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/philippe-laprise-pourquoi-pas-brossard-quebec-01-28-2024/event/31005E3EA70E221F"
+    ],
+    [
+      "Drum Tao",
+      "jan. 30, 2024",
+      "Tue • 8:00pm",
+      "https://s1.ticketm.net/dam/a/3aa/640e54b7-f6e7-4c4b-952a-e7b263c543aa_1121621_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://am.ticketmaster.com/pda/fr-ca/virtual-venue/UDRNMDEzMA==?_ga=2.218467161.1320549117.1690395483-594450457.1681478539&_gl=1*2p3eox*_ga*NTk0NDUwNDU3LjE2ODE0Nzg1Mzk.*_ga_J8N9JDT8D3*MTY5MDQwNTI0NC43LjEuMTY5MDQwNTU2Mi41Ni4wLjA."
+    ],
+    [
+      "Jeremy Demay",
+      "jan. 30, 2024",
+      "Tue • 8:00pm",
+      "https://s1.ticketm.net/dam/a/4be/9e716206-fc50-4613-9481-9df5554224be_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/jeremy-demay-brossard-quebec-01-30-2024/event/31005F21C0BF2B25"
+    ],
+    [
+      "Jeremy Demay",
+      "jan. 31, 2024",
+      "Wed • 8:00pm",
+      "https://s1.ticketm.net/dam/a/4be/9e716206-fc50-4613-9481-9df5554224be_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/jeremy-demay-brossard-quebec-01-31-2024/event/31005F74A1491D23"
+    ],
+    [
+      "Louis Morissette",
+      "Feb 1, 2024",
+      "Thu • 8:00pm",
+      "https://s1.ticketm.net/dam/a/5a0/82c4c6e6-ae28-4847-a161-cba4809a75a0_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/louis-morissette-brossard-quebec-02-01-2024/event/31005EEACE6F28E0"
+    ],
+    [
+      "Simon Leblanc - present en rodage",
+      "Feb 1, 2024",
+      "Thu • 8:00pm",
+      "https://s1.ticketm.net/dam/a/6e5/41da6f35-d111-4b56-9e35-60eda445e6e5_1025231_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/simon-leblanc-present-en-rodage-brossard-quebec-02-01-2024/event/31005F53A2B21CC3"
+    ],
+    [
+      "Guy Nantel",
+      "Feb 3, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/278/3ce1ad34-0b17-4118-b234-2b3790d72278_1569051_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/guy-nantel-montreal-quebec-02-03-2024/event/31005EC5D5B62422"
+    ],
+    [
+      "SIX - Dominic Et Martin",
+      "Feb 3, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/e8c/055c4c69-3665-47ee-8de0-61653a796e8c_1705631_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/six-dominic-et-martin-montreal-quebec-02-03-2024/event/31005E9CA6422087"
+    ],
+    [
+      "Marthe Laverdière",
+      "Feb 6, 2024",
+      "Tue • 8:00pm",
+      "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/marthe-laverdiere-brossard-quebec-02-06-2024/event/31005F5EA6BF212A"
+    ],
+    [
+      "Sam Breton",
+      "Feb 7, 2024",
+      "Wed • 8:00pm",
+      "https://s1.ticketm.net/dam/a/8a8/3bfc3e0c-acc3-4683-a74a-21f3d0b1b8a8_887691_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/sam-breton-brossard-quebec-02-07-2024/event/31005F6DDD172F74"
+    ],
+    [
+      "Mehdi Bousaidan",
+      "Feb 8, 2024",
+      "Thu • 8:00pm",
+      "https://s1.ticketm.net/dam/a/8ec/4b3bd037-1c5d-405a-afbe-219c759d38ec_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/mehdi-bousaidan-montreal-quebec-02-08-2024/event/31005F5EA3801F5D"
+    ],
+    [
+      "Matthieu Pepper",
+      "Feb 8, 2024",
+      "Thu • 8:00pm",
+      "https://s1.ticketm.net/dam/a/34e/17cdf0fe-c2ae-4fa8-aa20-11ace4b6e34e_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/matthieu-pepper-brossard-quebec-02-08-2024/event/31005F33A0EC22CB"
+    ],
+    [
+      "Megan Brouillard",
+      "Feb 8, 2024",
+      "Thu • 8:00pm",
+      "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/megan-brouillard-brossard-quebec-02-08-2024/event/31005E74BF89202E"
+    ],
+    [
+      "Randy Rainbow for President",
+      "Feb 9, 2024",
+      "Fri • 7:30pm",
+      "https://s1.ticketm.net/dam/a/336/20a051d8-470a-4b46-8ea8-ed0a4cd9a336_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.flynnvt.org/Events/2024/2/Randy-Rainbow"
+    ],
+    [
+      "Impolie - Pardonne-moi si je t'aime - Mariana Mazza",
+      "Feb 9, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/b2e/f4598903-3e3b-4115-86c9-e8ce56c6fb2e_1612751_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/impolie-pardonnemoi-si-je-taime-mariana-montreal-quebec-02-09-2024/event/31005F6265B81237"
+    ],
+    [
+      "Sam Breton",
+      "Feb 9, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/8a8/3bfc3e0c-acc3-4683-a74a-21f3d0b1b8a8_887691_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/sam-breton-brossard-quebec-02-09-2024/event/31005F4DC9DC3810"
+    ],
+    [
+      "Charles Beauchesne - Les corbeaux me regardent d'un air bizarre",
+      "Feb 9, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/760/69747981-e759-45ba-ad79-610a2d11d760_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/charles-beauchesne-les-corbeaux-me-regardent-brossard-quebec-02-09-2024/event/31005F74C99E2D3E"
+    ],
+    [
+      "Tommy & Friends 3",
+      "Feb 10, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/ace/507529bc-def8-46fe-b8a1-020917e6bace_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/tommy-friends-3-montreal-quebec-02-10-2024/event/31005F34C3373567"
+    ],
+    [
+      "Philippe Laprise - Pourquoi pas",
+      "Feb 10, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/555/6c795e4b-20fe-46fe-a139-c53440e06555_1624281_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/philippe-laprise-pourquoi-pas-montreal-quebec-02-10-2024/event/31005E9C9A991D6C"
+    ],
+    [
+      "Simon Gouache",
+      "Feb 10, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/50d/e84ca42f-c503-42ed-be1c-f0c4a207750d_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/simon-gouache-brossard-quebec-02-10-2024/event/31005F74A838214E"
+    ],
+    [
+      "Pascal Cameron",
+      "Feb 15, 2024",
+      "Thu • 8:00pm",
+      "https://s1.ticketm.net/dam/a/500/5c20616a-db68-4c8e-a1d8-f0d360cab500_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/pascal-cameron-brossard-quebec-02-15-2024/event/31005ED38D4F10E3"
+    ],
+    [
+      "Michelle Desrochers",
+      "Feb 16, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/e/64f/525b1f53-12af-4a23-9e91-50d3e96e364f_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/michelle-desrochers-laprairie-quebec-02-16-2024/event/31005E94EE2A5EF8"
+    ],
+    [
+      "Jay Du Temple",
+      "Feb 16, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/4d0/122a202e-f107-4b90-a862-4f869a08f4d0_1872111_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/jay-du-temple-brossard-quebec-02-16-2024/event/31005F5EA9DB220D"
+    ],
+    [
+      "Shen Yun",
+      "Feb 17, 2024",
+      "Sat • 7:00pm",
+      "https://s1.ticketm.net/dam/a/b4b/cadf40f5-ab6d-466c-9a10-45f9f255bb4b_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1A7e_b6?tmrid=TMR-4099607&routing=y"
+    ],
+    [
+      "Simon Gouache LIVE",
+      "Feb 17, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/50d/e84ca42f-c503-42ed-be1c-f0c4a207750d_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/simon-gouache-live-montreal-quebec-02-17-2024/event/31005F6FC8132F50"
+    ],
+    [
+      "Symphorien",
+      "Feb 17, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/symphorien-brossard-quebec-02-17-2024/event/31005E34D3B157E5"
+    ],
+    [
+      "Shen Yun",
+      "Feb 18, 2024",
+      "Sun • 1:00pm",
+      "https://s1.ticketm.net/dam/a/b4b/cadf40f5-ab6d-466c-9a10-45f9f255bb4b_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1A7e_bF?tmrid=TMR-4099608&routing=y"
+    ],
+    [
+      "Laurent Paquin",
+      "Feb 18, 2024",
+      "Sun • 4:00pm",
+      "https://s1.ticketm.net/dam/a/09b/31287a11-4ab2-43ae-8fad-fe4e2177209b_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/laurent-paquin-brossard-quebec-02-18-2024/event/31005F74AA3D2212"
+    ],
+    [
+      "Louise Latraverse",
+      "Feb 21, 2024",
+      "Wed • 7:00pm",
+      "https://s1.ticketm.net/dam/c/49a/d253ed86-2239-40af-8106-48add357a49a_105811_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/louise-latraverse-brossard-quebec-02-21-2024/event/31005EB0899910DA"
+    ],
+    [
+      "Symphorien: Le retour !",
+      "Feb 22, 2024",
+      "Thu • 2:00pm",
+      "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/symphorien-le-retour-montreal-quebec-02-22-2024/event/31005F11CD8B4363"
+    ],
+    [
+      "Symphorien: Le retour !",
+      "Feb 22, 2024",
+      "Thu • 8:00pm",
+      "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/symphorien-le-retour-montreal-quebec-02-22-2024/event/31005E32D0B05181"
+    ],
+    [
+      "Boucar Diouf",
+      "Feb 22, 2024",
+      "Thu • 8:00pm",
+      "https://s1.ticketm.net/dam/a/49e/1c997a4c-2cdb-473d-9d4a-4e501a92249e_1706251_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/boucar-diouf-brossard-quebec-02-22-2024/event/31005F6DDF442FDB"
+    ],
+    [
+      "Souper des 90 ans d'Air France (18+)New date",
+      "Feb 23, 2024",
+      "Fri • 6:00pm",
+      "https://s1.ticketm.net/dam/a/c1e/b6fb6839-3643-459b-a26c-86da9123ac1e_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/souper-des-90-ans-dair-france-montreal-quebec-02-23-2024/event/31005F7EA61F2650"
+    ],
+    [
+      "Eve Côté",
+      "Feb 23, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/d2b/fb48d070-5437-475d-b26c-c8d2b31f7d2b_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/eve-cote-montreal-quebec-02-23-2024/event/31005F74AC68232C"
+    ],
+    [
+      "Symphorien: Le retour !",
+      "Feb 23, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/symphorien-le-retour-montreal-quebec-02-23-2024/event/31005E32D0B15183"
+    ],
+    [
+      "Boucar Diouf",
+      "Feb 23, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/49e/1c997a4c-2cdb-473d-9d4a-4e501a92249e_1706251_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/boucar-diouf-brossard-quebec-02-23-2024/event/31005F2BC2192673"
+    ],
+    [
+      "Souper des 90 ans d'Air France (18+)New date",
+      "Feb 24, 2024",
+      "Sat • 6:00pm",
+      "https://s1.ticketm.net/dam/a/c1e/b6fb6839-3643-459b-a26c-86da9123ac1e_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/souper-des-90-ans-dair-france-montreal-quebec-02-24-2024/event/31005F7EA6212653"
+    ],
+    [
+      "Pete Correale : AuthenticPresale:\n Wed • Dec 6 • 12 PM",
+      "Feb 24, 2024",
+      "Sat • 7:30pm",
+      "https://s1.ticketm.net/dam/a/076/d2ef0c63-9c05-47ba-b829-0deeea4ae076_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/pete-correale-authentic-montreal-quebec-02-24-2024/event/31005F7EE1104065"
+    ],
+    [
+      "Profil comique : Spectacle bénéfice pour contrer le profilage racialOn Sale:\n Wed • Dec 6 • 12 PM",
+      "Feb 24, 2024",
+      "Sat • 7:30pm",
+      "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/profil-comique-spectacle-benefice-pour-contrer-montreal-quebec-02-24-2024/event/31005F85CB5F2CD7"
+    ],
+    [
+      "De la beauté",
+      "Feb 24, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/c1e/b6fb6839-3643-459b-a26c-86da9123ac1e_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://legesu.tuxedobillet.com/Gesu/de-la-beaute"
+    ],
+    [
+      "Mehdi Bousaidan",
+      "Feb 24, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/8ec/4b3bd037-1c5d-405a-afbe-219c759d38ec_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/mehdi-bousaidan-brossard-quebec-02-24-2024/event/31005EB782F11077"
+    ],
+    [
+      "Daniel Grenier",
+      "Feb 24, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/daniel-grenier-brossard-quebec-02-24-2024/event/31005EBACD6C32B8"
+    ],
+    [
+      "Sooshi Mango: Off The Boat",
+      "Feb 25, 2024",
+      "Sun • 7:00pm",
+      "https://s1.ticketm.net/dam/a/868/b226dc42-126e-4b7e-855d-f1043994f868_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/sooshi-mango-off-the-boat-montreal-quebec-02-25-2024/event/31005F6D9EC01ACA"
+    ],
+    [
+      "Soirée gastronomique - 25 ans de Montréal en Lumière en 25 servicesNew date",
+      "Feb 27, 2024",
+      "Tue • 7:00pm",
+      "https://s1.ticketm.net/dam/a/c1e/b6fb6839-3643-459b-a26c-86da9123ac1e_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/soiree-gastronomique-25-ans-de-montreal-montreal-quebec-02-27-2024/event/31005F7CBEAB660B"
+    ],
+    [
+      "Soirée gastronomique - 25 ans de Montréal en Lumière en 25 servicesNew date",
+      "Feb 28, 2024",
+      "Wed • 7:00pm",
+      "https://s1.ticketm.net/dam/a/c1e/b6fb6839-3643-459b-a26c-86da9123ac1e_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/soiree-gastronomique-25-ans-de-montreal-montreal-quebec-02-28-2024/event/31005F7CBFFB6639"
+    ],
+    [
+      "Adib Alkhalidey",
+      "Feb 28, 2024",
+      "Wed • 8:00pm",
+      "https://s1.ticketm.net/dam/a/617/f968aef7-1d67-45ac-8736-853640a24617_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/adib-alkhalidey-brossard-quebec-02-28-2024/event/31005F46DCC3369F"
+    ],
+    [
+      "Les Apéros du MEL présentés par Authentic Vins et SpiritueuxNew date",
+      "Feb 29, 2024",
+      "Thu • 6:00pm",
+      "https://s1.ticketm.net/dam/a/c1e/b6fb6839-3643-459b-a26c-86da9123ac1e_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/les-aperos-du-mel-presentes-par-montreal-quebec-02-29-2024/event/31005F7DE8C4490A"
+    ],
+    [
+      "Soirée gastronomique - 25 ans de Montréal en Lumière en 25 servicesNew date",
+      "Feb 29, 2024",
+      "Thu • 7:00pm",
+      "https://s1.ticketm.net/dam/a/c1e/b6fb6839-3643-459b-a26c-86da9123ac1e_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/soiree-gastronomique-25-ans-de-montreal-montreal-quebec-02-29-2024/event/31005F7CC0556651"
+    ],
+    [
+      "Ladies Night - pour vous mesdames!",
+      "Feb 29, 2024",
+      "Thu • 8:00pm",
+      "https://s1.ticketm.net/dam/a/53f/32e0eff4-e733-4e11-aef7-30f82152553f_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/ladies-night-pour-vous-mesdames-montreal-quebec-02-29-2024/event/31005E8FD0BC247D"
+    ],
+    [
+      "Les Apéros du MEL présentés par Authentic Vins et SpiritueuxNew date",
+      "mar. 1, 2024",
+      "Fri • 6:00pm",
+      "https://s1.ticketm.net/dam/a/c1e/b6fb6839-3643-459b-a26c-86da9123ac1e_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/les-aperos-du-mel-presentes-par-montreal-quebec-03-01-2024/event/31005F7DE8F3491C"
+    ],
+    [
+      "Ladies Night - pour vous mesdames!",
+      "mar. 1, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/53f/32e0eff4-e733-4e11-aef7-30f82152553f_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/ladies-night-pour-vous-mesdames-montreal-quebec-03-01-2024/event/31005E8FD0BE2493"
+    ],
+    [
+      "Philippe-Audrey Larrue-St-Jacques",
+      "mar. 1, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/658/45f1bc88-c24b-4a9e-804f-3514eea88658_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/philippeaudrey-larruestjacques-brossard-quebec-03-01-2024/event/31005E74A4381B2C"
+    ],
+    [
+      "Les Apéros du MEL présentés par Authentic Vins et SpiritueuxNew date",
+      "mar. 2, 2024",
+      "Sat • 6:00pm",
+      "https://s1.ticketm.net/dam/a/c1e/b6fb6839-3643-459b-a26c-86da9123ac1e_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/les-aperos-du-mel-presentes-par-montreal-quebec-03-02-2024/event/31005F7DE8F74920"
+    ],
+    [
+      "Ladies Night - pour vous mesdames!",
+      "mar. 2, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/53f/32e0eff4-e733-4e11-aef7-30f82152553f_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/ladies-night-pour-vous-mesdames-montreal-quebec-03-02-2024/event/31005E8FD0C024B5"
+    ],
+    [
+      "Lili St-Cyr",
+      "mar. 3, 2024",
+      "Sun • 8:00pm",
+      "https://s1.ticketm.net/dam/a/669/aab667d9-d515-4616-8dcf-0e7cf8f0f669_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/lili-stcyr-brossard-quebec-03-03-2024/event/31005EB784C110A5"
+    ],
+    [
+      "Thomas Deseur - Bien",
+      "mar. 5, 2024",
+      "Tue • 8:00pm",
+      "https://s1.ticketm.net/dam/a/b1d/199e896e-59ff-43eb-9b65-07ec1e404b1d_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/thomas-deseur-bien-montreal-quebec-03-05-2024/event/31005EF8D1AD3A1A"
+    ],
+    [
+      "Les Apéros du MEL présentés par Authentic Vins et SpiritueuxNew date",
+      "mar. 7, 2024",
+      "Thu • 6:00pm",
+      "https://s1.ticketm.net/dam/a/c1e/b6fb6839-3643-459b-a26c-86da9123ac1e_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/les-aperos-du-mel-presentes-par-montreal-quebec-03-07-2024/event/31005F7DE8FB4924"
+    ],
+    [
+      "Jo Koy - World Tour",
+      "mar. 7, 2024",
+      "Thu • 8:00pm",
+      "https://s1.ticketm.net/dam/a/fb8/e45d0f19-ccb4-4ee3-93d3-7c3b1ff8efb8_1486581_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/jo-koy-world-tour-montreal-quebec-03-07-2024/event/31005F76C63C2DFA"
+    ],
+    [
+      "Les Apéros du MEL présentés par Authentic Vins et SpiritueuxNew date",
+      "mar. 8, 2024",
+      "Fri • 6:00pm",
+      "https://s1.ticketm.net/dam/a/c1e/b6fb6839-3643-459b-a26c-86da9123ac1e_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/les-aperos-du-mel-presentes-par-montreal-quebec-03-08-2024/event/31005F7DE8FF492A"
+    ],
+    [
+      "Yves Lowe x Jeremy CharlesNew date",
+      "mar. 8, 2024",
+      "Fri • 7:00pm",
+      "https://s1.ticketm.net/dam/a/c1e/b6fb6839-3643-459b-a26c-86da9123ac1e_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/yves-lowe-x-jeremy-charles-montreal-quebec-03-08-2024/event/31005F84DF18308B"
+    ],
+    [
+      "Dominic Paquet",
+      "mar. 8, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/030/ab30f67e-0518-4b4f-bf50-bbfb8f735030_1288911_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/dominic-paquet-montreal-quebec-03-08-2024/event/31005F5F88681769"
+    ],
+    [
+      "Run De Lait",
+      "mar. 8, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/run-de-lait-brossard-quebec-03-08-2024/event/31005E6E99CA1DA4"
+    ],
+    [
+      "Jeremy Demay - Naturel",
+      "mar. 9, 2024",
+      "Sat • 3:00pm",
+      "https://s1.ticketm.net/dam/a/4be/9e716206-fc50-4613-9481-9df5554224be_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/jeremy-demay-naturel-montreal-quebec-03-09-2024/event/31005F625BAD0E8C"
+    ],
+    [
+      "Yves Lowe x Jeremy CharlesNew date",
+      "mar. 9, 2024",
+      "Sat • 5:00pm",
+      "https://s1.ticketm.net/dam/a/c1e/b6fb6839-3643-459b-a26c-86da9123ac1e_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/yves-lowe-x-jeremy-charles-montreal-quebec-03-09-2024/event/31005F84DF213098"
+    ],
+    [
+      "Daniel Tiger's Neighborhood",
+      "mar. 9, 2024",
+      "Sat • 5:00pm",
+      "https://s1.ticketm.net/dam/a/575/c89d0e82-8424-433c-a606-0fde733da575_55301_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1AdJbqZ?tmrid=TMR-3998740&routing=y"
+    ],
+    [
+      "Les Apéros du MEL présentés par Authentic Vins et SpiritueuxNew date",
+      "mar. 9, 2024",
+      "Sat • 6:00pm",
+      "https://s1.ticketm.net/dam/a/c1e/b6fb6839-3643-459b-a26c-86da9123ac1e_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/les-aperos-du-mel-presentes-par-montreal-quebec-03-09-2024/event/31005F7DE9034934"
+    ],
+    [
+      "Jeremy Demay - Naturel",
+      "mar. 9, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/4be/9e716206-fc50-4613-9481-9df5554224be_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/jeremy-demay-naturel-montreal-quebec-03-09-2024/event/31005F625BB00E94"
+    ],
+    [
+      "Dominic Paquet",
+      "mar. 9, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/030/ab30f67e-0518-4b4f-bf50-bbfb8f735030_1288911_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/dominic-paquet-brossard-quebec-03-09-2024/event/31005F6DE06C3013"
+    ],
+    [
+      "Dominic PaquetPresale:\n Thu • Dec 7 • 2 PM",
+      "mar. 10, 2024",
+      "Sun • 3:00pm",
+      "https://s1.ticketm.net/dam/a/030/ab30f67e-0518-4b4f-bf50-bbfb8f735030_1288911_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/dominic-paquet-brossard-quebec-03-10-2024/event/31005F84C9FD28D7"
+    ],
+    [
+      "The Cher Show",
+      "mar. 12, 2024",
+      "Tue • 7:30pm",
+      "https://s1.ticketm.net/dam/a/4fb/2e7a8927-8814-40dd-bfee-bc60f40894fb_669231_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1Ad-M7F?tmrid=TMR-3877108&routing=y"
+    ],
+    [
+      "The Cher Show",
+      "mar. 13, 2024",
+      "Wed • 7:30pm",
+      "https://s1.ticketm.net/dam/a/4fb/2e7a8927-8814-40dd-bfee-bc60f40894fb_669231_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1Adxk00?tmrid=TMR-3886924&routing=y"
+    ],
+    [
+      "Bianca Del Rio - Dead Inside Comedy Tour",
+      "mar. 13, 2024",
+      "Wed • 8:00pm",
+      "https://s1.ticketm.net/dam/a/1c3/44e88c92-758f-46ab-a044-a93ac944f1c3_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/bianca-del-rio-dead-inside-comedy-montreal-quebec-03-13-2024/event/31005F6BDBF03D29"
+    ],
+    [
+      "Christine Morency",
+      "mar. 14, 2024",
+      "Thu • 8:00pm",
+      "https://s1.ticketm.net/dam/a/68e/b7b869f2-48cd-4081-948c-78e04026a68e_1567901_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/christine-morency-brossard-quebec-03-14-2024/event/31005F7BA55C23A6"
+    ],
+    [
+      "Mona de Grenoble",
+      "mar. 14, 2024",
+      "Thu • 8:00pm",
+      "https://s1.ticketm.net/dam/a/60a/673c305d-c66e-4456-a767-95e4c0a5e60a_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/mona-de-grenoble-brossard-quebec-03-14-2024/event/31005F4A98451C0F"
+    ],
+    [
+      "Simon Leblanc",
+      "mar. 15, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/e/60e/d335a6f7-7fb1-4d59-b5c2-fe280af3460e_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/simon-leblanc-laprairie-quebec-03-15-2024/event/31005F63975E2693"
+    ],
+    [
+      "Louis T - Mâle Alpha",
+      "mar. 15, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/535/36a848bf-f1fb-422f-9e20-95a2c072b535_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/louis-t-male-alpha-brossard-quebec-03-15-2024/event/31005F09A4D22464"
+    ],
+    [
+      "Guillaume Pineault",
+      "mar. 19, 2024",
+      "Tue • 8:00pm",
+      "https://s1.ticketm.net/dam/a/7ee/190d5710-da40-4cf7-b8a7-fabcada5d7ee_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/guillaume-pineault-montreal-quebec-03-19-2024/event/31005F51D7432F78"
+    ],
+    [
+      "Silence On Tourne",
+      "mar. 19, 2024",
+      "Tue • 8:00pm",
+      "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/silence-on-tourne-brossard-quebec-03-19-2024/event/31005E6E9B2E1DF2"
+    ],
+    [
+      "Boucar Diouf",
+      "mar. 21, 2024",
+      "Thu • 8:00pm",
+      "https://s1.ticketm.net/dam/a/49e/1c997a4c-2cdb-473d-9d4a-4e501a92249e_1706251_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/boucar-diouf-brossard-quebec-03-21-2024/event/31005D7C91982877"
+    ],
+    [
+      "Boucar Diouf",
+      "mar. 22, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/49e/1c997a4c-2cdb-473d-9d4a-4e501a92249e_1706251_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/boucar-diouf-brossard-quebec-03-22-2024/event/31005D7C92BF289D"
+    ],
+    [
+      "Matteo Lane",
+      "mar. 23, 2024",
+      "Sat • 7:00pm",
+      "https://s1.ticketm.net/dam/a/73c/0a277082-02e1-4d0d-814f-8516471e473c_1822661_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/matteo-lane-montreal-quebec-03-23-2024/event/31005F6A9C43227A"
+    ],
+    [
+      "Matthieu PepperPresale:\n Thu • Dec 7 • 2 PM",
+      "mar. 23, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/34e/17cdf0fe-c2ae-4fa8-aa20-11ace4b6e34e_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/matthieu-pepper-brossard-quebec-03-23-2024/event/31005F84CAF32923"
+    ],
+    [
+      "Matteo Lane",
+      "mar. 24, 2024",
+      "Sun • 6:00pm",
+      "https://s1.ticketm.net/dam/a/73c/0a277082-02e1-4d0d-814f-8516471e473c_1822661_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/matteo-lane-montreal-quebec-03-24-2024/event/31005F6A9C4822A5"
+    ],
+    [
+      "Luc Langevin",
+      "mar. 24, 2024",
+      "Sun • 8:00pm",
+      "https://s1.ticketm.net/dam/a/3de/7fc0b764-df80-4f5d-a6d4-559a8e8123de_1571871_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/luc-langevin-brossard-quebec-03-24-2024/event/31005E469C261A39"
+    ],
+    [
+      "Neev - Pas Besoin D'ajouter La Sauce",
+      "mar. 26, 2024",
+      "Tue • 8:00pm",
+      "https://s1.ticketm.net/dam/a/47a/15677496-9d55-4067-9553-261b908b047a_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/neev-pas-besoin-dajouter-la-sauce-montreal-quebec-03-26-2024/event/31005F26A05518F0"
+    ],
+    [
+      "Il était une voix... PIAF",
+      "mar. 27, 2024",
+      "Wed • 2:00pm",
+      "https://s1.ticketm.net/dam/a/1a2/6ec439c6-8177-40bd-889f-43f47ed971a2_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/il-etait-une-voix-piaf-montreal-quebec-03-27-2024/event/31005F2AA9BE253C"
+    ],
+    [
+      "Il était une voix... PIAF",
+      "mar. 27, 2024",
+      "Wed • 8:00pm",
+      "https://s1.ticketm.net/dam/e/136/b80664b3-0ee0-46d6-8f49-7d89bf538136_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/il-etait-une-voix-piaf-montreal-quebec-03-27-2024/event/31005F2AABA92577"
+    ],
+    [
+      "Ils Étaient Dix",
+      "mar. 27, 2024",
+      "Wed • 8:00pm",
+      "https://s1.ticketm.net/dam/c/49a/d253ed86-2239-40af-8106-48add357a49a_105811_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/ils-etaient-dix-brossard-quebec-03-27-2024/event/31005E6E9DBF1E6E"
+    ],
+    [
+      "Il était une voix... PIAF",
+      "mar. 28, 2024",
+      "Thu • 2:00pm",
+      "https://s1.ticketm.net/dam/a/1a2/6ec439c6-8177-40bd-889f-43f47ed971a2_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/il-etait-une-voix-piaf-montreal-quebec-03-28-2024/event/31005F2AA9C2253E"
+    ],
+    [
+      "Simon Leblanc - present en rodage",
+      "mar. 28, 2024",
+      "Thu • 8:00pm",
+      "https://s1.ticketm.net/dam/a/6e5/41da6f35-d111-4b56-9e35-60eda445e6e5_1025231_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/simon-leblanc-present-en-rodage-brossard-quebec-03-28-2024/event/31005F6E9F042D92"
+    ],
+    [
+      "Couple Ouvert",
+      "mar. 28, 2024",
+      "Thu • 8:00pm",
+      "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/couple-ouvert-brossard-quebec-03-28-2024/event/31005F19D6513FB1"
+    ],
+    [
+      "Sasha Colby: Stripped Tour",
+      "mar. 29, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/720/1be00b62-9d83-4bff-8aea-97877d95e720_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/sasha-colby-stripped-tour-montreal-quebec-03-29-2024/event/31005F4BB2722883"
+    ],
+    [
+      "Matthieu Pepper",
+      "mar. 29, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/34e/17cdf0fe-c2ae-4fa8-aa20-11ace4b6e34e_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/matthieu-pepper-montreal-quebec-03-29-2024/event/31005F2FE2FF335C"
+    ],
+    [
+      "Jo Cormier",
+      "mar. 29, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/7d5/d7a82228-0e1e-4eef-bbbe-b5ff049d27d5_1612761_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/jo-cormier-montreal-quebec-03-29-2024/event/31005F6263D811E8"
+    ],
+    [
+      "Soirée Soul Pop WOMAN UP!",
+      "mar. 29, 2024",
+      "Fri • 8:30pm",
+      "https://s1.ticketm.net/dam/a/b76/8dd695ff-59bf-42b3-82c9-f8fa0c112b76_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/soiree-soul-pop-woman-up-montreal-quebec-03-29-2024/event/31005F76C1482BCD"
+    ],
+    [
+      "Alexandra Streliski",
+      "mar. 30, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/1e7/fdec8d41-1a77-47d6-a442-01ed0f8391e7_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/alexandra-streliski-brossard-quebec-03-30-2024/event/31005E74A6DC1C09"
+    ],
+    [
+      "Alexandra Streliski",
+      "mar. 31, 2024",
+      "Sun • 8:00pm",
+      "https://s1.ticketm.net/dam/a/1e7/fdec8d41-1a77-47d6-a442-01ed0f8391e7_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/alexandra-streliski-brossard-quebec-03-31-2024/event/31005E74A86C1C43"
+    ],
+    [
+      "Alexandra Streliski",
+      "Apr 1, 2024",
+      "Mon • 8:00pm",
+      "https://s1.ticketm.net/dam/a/1e7/fdec8d41-1a77-47d6-a442-01ed0f8391e7_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/alexandra-streliski-brossard-quebec-04-01-2024/event/31005F46DDD73765"
+    ],
+    [
+      "La Corriveau",
+      "Apr 3, 2024",
+      "Wed • 8:00pm",
+      "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/la-corriveau-brossard-quebec-04-03-2024/event/31005E6EA3B11FBD"
+    ],
+    [
+      "Guillaume Pineault",
+      "Apr 4, 2024",
+      "Thu • 8:00pm",
+      "https://s1.ticketm.net/dam/a/7ee/190d5710-da40-4cf7-b8a7-fabcada5d7ee_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/guillaume-pineault-brossard-quebec-04-04-2024/event/31005F5092711832"
+    ],
+    [
+      "Richardson Zéphir",
+      "Apr 4, 2024",
+      "Thu • 8:00pm",
+      "https://s1.ticketm.net/dam/a/f19/75332bc9-edc9-43f5-b3a0-f4e10d18af19_1451991_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/richardson-zephir-brossard-quebec-04-04-2024/event/31005F08AA8C30D4"
+    ],
+    [
+      "Dominic Paquet",
+      "Apr 5, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/030/ab30f67e-0518-4b4f-bf50-bbfb8f735030_1288911_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/dominic-paquet-montreal-quebec-04-05-2024/event/31005F5F886A176B"
+    ],
+    [
+      "Dominic Paquet",
+      "Apr 6, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/030/ab30f67e-0518-4b4f-bf50-bbfb8f735030_1288911_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/dominic-paquet-montreal-quebec-04-06-2024/event/31005F5F886D1799"
+    ],
+    [
+      "Simon LeblancPresale:\n Thu • Dec 7 • 2 PM",
+      "Apr 6, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/6e5/41da6f35-d111-4b56-9e35-60eda445e6e5_1025231_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/simon-leblanc-brossard-quebec-04-06-2024/event/31005F81C00A3C39"
+    ],
+    [
+      "Jean-Thomas Jobin",
+      "Apr 6, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/af5/83c40b2c-189f-42b5-80fe-8b0f43c90af5_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/jeanthomas-jobin-brossard-quebec-04-06-2024/event/31005F50A1512125"
+    ],
+    [
+      "Daniel Lemire",
+      "Apr 7, 2024",
+      "Sun • 3:00pm",
+      "https://s1.ticketm.net/dam/a/e2a/b6f65d9f-b34f-450e-89a6-27dab26d3e2a_1809341_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/daniel-lemire-brossard-quebec-04-07-2024/event/31005F28C4922FC1"
+    ],
+    [
+      "Gala Comédie Star 2024",
+      "Apr 9, 2024",
+      "Tue • 8:00pm",
+      "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/gala-comedie-star-2024-brossard-quebec-04-09-2024/event/31005F39A6B623DD"
+    ],
+    [
+      "Wizard Of Oz",
+      "Apr 11, 2024",
+      "Thu • 7:30pm",
+      "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1A7ZpZk?tmrid=TMR-4016006&routing=y"
+    ],
+    [
+      "Like & Follow",
+      "Apr 11, 2024",
+      "Thu • 8:00pm",
+      "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/like-follow-brossard-quebec-04-11-2024/event/31005F7BC4462BEC"
+    ],
+    [
+      "Wizard Of Oz",
+      "Apr 12, 2024",
+      "Fri • 7:30pm",
+      "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1A7ZpZI?tmrid=TMR-4016028&routing=y"
+    ],
+    [
+      "Dominic Paquet",
+      "Apr 12, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/030/ab30f67e-0518-4b4f-bf50-bbfb8f735030_1288911_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/dominic-paquet-montreal-quebec-04-12-2024/event/31005F51DD653103"
+    ],
+    [
+      "Christine Morency",
+      "Apr 12, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/68e/b7b869f2-48cd-4081-948c-78e04026a68e_1567901_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/christine-morency-laprairie-quebec-04-12-2024/event/31005E58E80E6052"
+    ],
+    [
+      "Neev",
+      "Apr 12, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/47a/15677496-9d55-4067-9553-261b908b047a_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/neev-brossard-quebec-04-12-2024/event/31005F5EB5AA25B7"
+    ],
+    [
+      "Wizard Of Oz",
+      "Apr 13, 2024",
+      "Sat • 1:00pm",
+      "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1A7ZAaF?tmrid=TMR-4005248&routing=y"
+    ],
+    [
+      "Moqueur Polyglotte  - Pierre-Luc Pomerleau",
+      "Apr 13, 2024",
+      "Sat • 3:00pm",
+      "https://s1.ticketm.net/dam/a/d3c/0968d4cb-f1f4-400b-809f-b14aef80dd3c_1817861_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/moqueur-polyglotte-pierreluc-pomerleau-montreal-quebec-04-13-2024/event/31005F75CA192FEB"
+    ],
+    [
+      "Wizard Of Oz",
+      "Apr 13, 2024",
+      "Sat • 7:30pm",
+      "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1A7ZpZE?tmrid=TMR-4016027&routing=y"
+    ],
+    [
+      "Dominic Paquet",
+      "Apr 13, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/030/ab30f67e-0518-4b4f-bf50-bbfb8f735030_1288911_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/dominic-paquet-montreal-quebec-04-13-2024/event/31005F51DD683106"
+    ],
+    [
+      "Moqueur Polyglotte - Pierre-Luc Pomerleau",
+      "Apr 13, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/d3c/0968d4cb-f1f4-400b-809f-b14aef80dd3c_1817861_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/moqueur-polyglotte-pierreluc-pomerleau-montreal-quebec-04-13-2024/event/31005F626848137C"
+    ],
+    [
+      "Alex Roy",
+      "Apr 13, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/d5b/464ad35f-eb42-4e40-9783-2c2cf7d48d5b_1785401_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/alex-roy-brossard-quebec-04-13-2024/event/31005EEAD4762A8B"
+    ],
+    [
+      "Wizard Of Oz",
+      "Apr 14, 2024",
+      "Sun • 1:00pm",
+      "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1A7ZAaa?tmrid=TMR-4005249&routing=y"
+    ],
+    [
+      "Wizard Of Oz",
+      "Apr 14, 2024",
+      "Sun • 6:00pm",
+      "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1A7ZpZs?tmrid=TMR-4016031&routing=y"
+    ],
+    [
+      "Mario Jean",
+      "Apr 17, 2024",
+      "Wed • 8:00pm",
+      "https://s1.ticketm.net/dam/a/c65/b6b8643c-ba38-4e46-b5fb-fdaa93fd9c65_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/mario-jean-brossard-quebec-04-17-2024/event/31005F5EAEFF23BC"
+    ],
+    [
+      "P-O Forget",
+      "Apr 18, 2024",
+      "Thu • 8:00pm",
+      "https://s1.ticketm.net/dam/a/44f/d02c1b7d-95cf-4ac7-9a42-baae7cfe244f_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/po-forget-brossard-quebec-04-18-2024/event/31005ED38C3710A9"
+    ],
+    [
+      "Il était une voix... PIAF",
+      "Apr 24, 2024",
+      "Wed • 8:00pm",
+      "https://s1.ticketm.net/dam/e/2fb/98192f48-e698-4099-947e-a677f60ea2fb_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/il-etait-une-voix-piaf-montreal-quebec-04-24-2024/event/31005F615BD70CBA"
+    ],
+    [
+      "La Machine De Turing",
+      "Apr 24, 2024",
+      "Wed • 8:00pm",
+      "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/la-machine-de-turing-brossard-quebec-04-24-2024/event/31005E6EA5F02054"
+    ],
+    [
+      "Jo Cormier",
+      "Apr 25, 2024",
+      "Thu • 8:00pm",
+      "https://s1.ticketm.net/dam/a/7d5/d7a82228-0e1e-4eef-bbbe-b5ff049d27d5_1612761_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/jo-cormier-brossard-quebec-04-25-2024/event/31005F74CAD32D99"
+    ],
+    [
+      "Bagel Burlesque Expo 2024 - Multi-jours (26 & 27 avril)",
+      "Apr 26, 2024 - Apr 27, 2024",
+      "Fri-Sat",
+      "https://s1.ticketm.net/dam/a/09e/1fb7f436-5c6c-4b4b-a885-b39bcbe2709e_1249961_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/bagel-burlesque-expo-2024-multijours-26-montreal-quebec-04-26-2024/event/31005F71C6414D18"
+    ],
+    [
+      "Bagel Burlesque Expo 2024 - 1 Jour (Vendredi 26 avril)",
+      "Apr 26, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/09e/1fb7f436-5c6c-4b4b-a885-b39bcbe2709e_1249961_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/bagel-burlesque-expo-2024-1-jour-montreal-quebec-04-26-2024/event/31005F6FC8532F60"
+    ],
+    [
+      "Louis Morissette",
+      "Apr 26, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/5a0/82c4c6e6-ae28-4847-a161-cba4809a75a0_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/louis-morissette-brossard-quebec-04-26-2024/event/31005F43C16145FA"
+    ],
+    [
+      "Louis MorissettePresale:\n Thu • Dec 7 • 2 PM",
+      "Apr 27, 2024",
+      "Sat • 4:00pm",
+      "https://s1.ticketm.net/dam/a/5a0/82c4c6e6-ae28-4847-a161-cba4809a75a0_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/louis-morissette-brossard-quebec-04-27-2024/event/31005F84CC4029C6"
+    ],
+    [
+      "Bagel Burlesque Expo 2024 - 1 Jour (Samedi 27 avril)",
+      "Apr 27, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/09e/1fb7f436-5c6c-4b4b-a885-b39bcbe2709e_1249961_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/bagel-burlesque-expo-2024-1-jour-montreal-quebec-04-27-2024/event/31005F6FC8552F67"
+    ],
+    [
+      "Louis Morissette",
+      "Apr 27, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/5a0/82c4c6e6-ae28-4847-a161-cba4809a75a0_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/louis-morissette-brossard-quebec-04-27-2024/event/31005F6EA06B2DFD"
+    ],
+    [
+      "Melanie Couture",
+      "Apr 27, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/874/55e50424-0bdd-426d-a926-e93a36fef874_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/melanie-couture-brossard-quebec-04-27-2024/event/31005F09A6A22502"
+    ],
+    [
+      "Ilana Glazer Live!Presale:\n Wed • Dec 6 • 12 PM",
+      "May 1, 2024",
+      "Wed • 7:00pm",
+      "https://s1.ticketm.net/dam/a/e15/f05d3f82-cad3-49e3-b2db-2e4e2fcb4e15_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/ilana-glazer-live-montreal-quebec-05-01-2024/event/31005F7ED1C23B4F"
+    ],
+    [
+      "Rosalie Vaillancourt",
+      "May 1, 2024",
+      "Wed • 8:00pm",
+      "https://s1.ticketm.net/dam/a/8cd/e2af3a34-8afe-477c-ac05-f470741fb8cd_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/rosalie-vaillancourt-brossard-quebec-05-01-2024/event/31005F66BCFD2FBB"
+    ],
+    [
+      "Guy Nantel - Si je vous ai bien compris, vous êtes en train de dire...",
+      "May 3, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/278/3ce1ad34-0b17-4118-b234-2b3790d72278_1569051_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/guy-nantel-si-je-vous-ai-montreal-quebec-05-03-2024/event/31005F6258E00E35"
+    ],
+    [
+      "Guy Nantel - Si je vous ai bien compris, vous êtes en train de dire...",
+      "May 4, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/278/3ce1ad34-0b17-4118-b234-2b3790d72278_1569051_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/guy-nantel-si-je-vous-ai-montreal-quebec-05-04-2024/event/31005F6258E50E39"
+    ],
+    [
+      "Katherine Levac",
+      "May 4, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/208/3b171766-3db3-4094-9735-73c101752208_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/katherine-levac-brossard-quebec-05-04-2024/event/31005EEAD2852A50"
+    ],
+    [
+      "Mean Girls",
+      "May 7, 2024",
+      "Tue • 7:30pm",
+      "https://s1.ticketm.net/dam/a/f2a/0235db04-17df-477f-83f9-a9959e03ff2a_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1Ad-M7a?tmrid=TMR-3877109&routing=y"
+    ],
+    [
+      "Martin Vachon",
+      "May 7, 2024",
+      "Tue • 8:00pm",
+      "https://s1.ticketm.net/dam/a/5f6/0e5682ee-5bdd-407b-bcec-4b7c89c8b5f6_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/martin-vachon-montreal-quebec-05-07-2024/event/31005E93E73C4D21"
+    ],
+    [
+      "Fred Pellerin",
+      "May 7, 2024",
+      "Tue • 8:00pm",
+      "https://s1.ticketm.net/dam/a/349/3dae09dc-7512-4f28-be9f-ca9b77c38349_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/fred-pellerin-brossard-quebec-05-07-2024/event/31005E9CD41E317B"
+    ],
+    [
+      "Mean Girls",
+      "May 8, 2024",
+      "Wed • 7:30pm",
+      "https://s1.ticketm.net/dam/a/f2a/0235db04-17df-477f-83f9-a9959e03ff2a_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1Adxk0P?tmrid=TMR-3886925&routing=y"
+    ],
+    [
+      "Fred Pellerin",
+      "May 8, 2024",
+      "Wed • 8:00pm",
+      "https://s1.ticketm.net/dam/a/349/3dae09dc-7512-4f28-be9f-ca9b77c38349_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/fred-pellerin-brossard-quebec-05-08-2024/event/31005E9CD8793461"
+    ],
+    [
+      "Laurent PaquinPresale:\n Thu • Dec 7 • 2 PM",
+      "May 11, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/09b/31287a11-4ab2-43ae-8fad-fe4e2177209b_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/laurent-paquin-brossard-quebec-05-11-2024/event/31005F84CD842B42"
+    ],
+    [
+      "Djimo",
+      "May 16, 2024",
+      "Thu • 8:00pm",
+      "https://s1.ticketm.net/dam/a/7e7/6d5ded6c-2dcc-408e-9365-a04be53c07e7_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/djimo-montreal-quebec-05-16-2024/event/31005EF4155244C5"
+    ],
+    [
+      "Mathieu Cyr Et Olivier Martineau",
+      "May 16, 2024",
+      "Thu • 8:00pm",
+      "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/mathieu-cyr-et-olivier-martineau-brossard-quebec-05-16-2024/event/31005F42D9002AF8"
+    ],
+    [
+      "Jo Cormier",
+      "May 17, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/7d5/d7a82228-0e1e-4eef-bbbe-b5ff049d27d5_1612761_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/jo-cormier-montreal-quebec-05-17-2024/event/31005F3B9FEE271B"
+    ],
+    [
+      "Rince-Crème en tournée",
+      "May 17, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/rincecreme-en-tournee-brossard-quebec-05-17-2024/event/31005F39A8162431"
+    ],
+    [
+      "Les Exseparables",
+      "May 17, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/cd4/487d4dc4-cbe1-4dfb-b6f3-5a78da1f3cd4_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/les-exseparables-brossard-quebec-05-17-2024/event/31005F7BCC232EA0"
+    ],
+    [
+      "Jeremy Demay",
+      "May 18, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/4be/9e716206-fc50-4613-9481-9df5554224be_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/jeremy-demay-brossard-quebec-05-18-2024/event/31005F74A3FE1F50"
+    ],
+    [
+      "JIMBO's DRAG CIRCUS World Tour",
+      "May 19, 2024",
+      "Sun • 8:00pm",
+      "https://s1.ticketm.net/dam/a/560/7565789b-479a-44f2-a3f6-e2f90bda3560_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/jimbos-drag-circus-world-tour-montreal-quebec-05-19-2024/event/31005EEDC9D22849"
+    ],
+    [
+      "Janie et Marcio",
+      "May 19, 2024",
+      "Sun • 8:00pm",
+      "https://s1.ticketm.net/dam/c/cf0/e3e32db3-adac-486f-b78d-7c8857f8bcf0_106191_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/janie-et-marcio-brossard-quebec-05-19-2024/event/31005EC5916C1252"
+    ],
+    [
+      "Martin Vachon - Ahh caramel...",
+      "May 24, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/5f6/0e5682ee-5bdd-407b-bcec-4b7c89c8b5f6_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/martin-vachon-ahh-caramel-montreal-quebec-05-24-2024/event/31005E9CA0FE1F3F"
+    ],
+    [
+      "Dave Gaudet",
+      "May 24, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/dave-gaudet-brossard-quebec-05-24-2024/event/31005F5EC65828C7"
+    ],
+    [
+      "Mike Beaudoin",
+      "May 25, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/c40/f2d8ed6b-a4dc-42f6-b225-ebe19aa74c40_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/mike-beaudoin-brossard-quebec-05-25-2024/event/31005EEEA5734232"
+    ],
+    [
+      "Daniel Lemire",
+      "May 31, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/e2a/b6f65d9f-b34f-450e-89a6-27dab26d3e2a_1809341_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/daniel-lemire-montreal-quebec-05-31-2024/event/31005F5889611618"
+    ],
+    [
+      "Finissant.e.s École Nationale De L'humourPresale:\n Thu • Dec 7 • 2 PM",
+      "May 31, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/finissantes-ecole-nationale-de-lhumour-brossard-quebec-05-31-2024/event/31005F8581F6146D"
+    ],
+    [
+      "Brick & Brack",
+      "jun. 6, 2024",
+      "Thu • 8:00pm",
+      "https://s1.ticketm.net/dam/a/197/6c3e85f3-83a8-431f-bada-fcad4f94e197_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/brick-brack-brossard-quebec-06-06-2024/event/31005E74BB781F4A"
+    ],
+    [
+      "Martin Vachon",
+      "jun. 7, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/5f6/0e5682ee-5bdd-407b-bcec-4b7c89c8b5f6_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/martin-vachon-brossard-quebec-06-07-2024/event/31005E93CDD73C0E"
+    ],
+    [
+      "Martin Vachon",
+      "jun. 8, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/5f6/0e5682ee-5bdd-407b-bcec-4b7c89c8b5f6_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/martin-vachon-brossard-quebec-06-08-2024/event/31005E93CFB43D59"
+    ],
+    [
+      "Blippi: The Wonderful World Tour - platine officiels",
+      "jun. 9, 2024",
+      "Sun • 2:00pm",
+      "https://s1.ticketm.net/dam/a/3e4/27d91783-83cf-41fa-a8bb-6700f3d8c3e4_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/blippi-the-wonderful-world-tour-platine-montreal-quebec-06-09-2024/event/31005F50D0D72E66"
+    ],
+    [
+      "Marthe Laverdière",
+      "jun. 9, 2024",
+      "Sun • 3:00pm",
+      "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/marthe-laverdiere-brossard-quebec-06-09-2024/event/31005F769FF11FB7"
+    ],
+    [
+      "Guy Nantel",
+      "jun. 13, 2024",
+      "Thu • 8:00pm",
+      "https://s1.ticketm.net/dam/a/278/3ce1ad34-0b17-4118-b234-2b3790d72278_1569051_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/guy-nantel-brossard-quebec-06-13-2024/event/31005F74C5262BBB"
+    ],
+    [
+      "Laurent Paquin",
+      "jun. 15, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/09b/31287a11-4ab2-43ae-8fad-fe4e2177209b_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/laurent-paquin-montreal-quebec-06-15-2024/event/31005F61E55A3ED0"
+    ],
+    [
+      "Mike BeaudoinPresale:\n Thu • Dec 7 • 2 PM",
+      "jun. 21, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/c40/f2d8ed6b-a4dc-42f6-b225-ebe19aa74c40_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/mike-beaudoin-brossard-quebec-06-21-2024/event/31005F84DD5D301F"
+    ],
+    [
+      "La St-jean De Brick & Brack",
+      "jun. 23, 2024",
+      "Sun • 9:00pm",
+      "https://s1.ticketm.net/dam/a/197/6c3e85f3-83a8-431f-bada-fcad4f94e197_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/la-stjean-de-brick-brack-montreal-quebec-06-23-2024/event/31005F71C2F44BF5"
+    ],
+    [
+      "Michael Flatley's Lord of the Dance",
+      "jun. 26, 2024",
+      "Wed • 8:00pm",
+      "https://s1.ticketm.net/dam/a/17d/6f0f1c5c-cada-41e1-9457-476a27da117d_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/michael-flatleys-lord-of-the-dance-montreal-quebec-06-26-2024/event/31005F4CB4222F40"
+    ],
+    [
+      "Mike Ward",
+      "jun. 28, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/743/5bf26c12-5944-40f9-88c8-32c2de110743_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/mike-ward-brossard-quebec-06-28-2024/event/31005F70C2B6316C"
+    ],
+    [
+      "Mike Ward",
+      "jun. 29, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/743/5bf26c12-5944-40f9-88c8-32c2de110743_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/mike-ward-brossard-quebec-06-29-2024/event/31005F70C36E3187"
+    ],
+    [
+      "Couple OuvertPresale:\n Thu • Dec 7 • 2 PM",
+      "jul. 12, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/couple-ouvert-brossard-quebec-07-12-2024/event/31005F84DF123081"
+    ],
+    [
+      "Elodie PouxOn Sale:\n Tue • Dec 12 • 12 PM",
+      "jul. 20, 2024",
+      "Sat • 7:30pm",
+      "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/elodie-poux-montreal-quebec-07-20-2024/event/31005F81B737379F"
+    ],
+    [
+      "Elodie PouxOn Sale:\n Tue • Dec 12 • 12 PM",
+      "jul. 21, 2024",
+      "Sun • 7:30pm",
+      "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/elodie-poux-montreal-quebec-07-21-2024/event/31005F81B6B2373C"
+    ],
+    [
+      "LE DÎNER DE CONSPresale:\n Thu • Dec 7 • 2 PM",
+      "jul. 25, 2024",
+      "Thu • 8:00pm",
+      "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/le-diner-de-cons-brossard-quebec-07-25-2024/event/31005F84D1C62DCC"
+    ],
+    [
+      "LE DÎNER DE CONS",
+      "jul. 26, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/le-diner-de-cons-brossard-quebec-07-26-2024/event/31005EF4BDFD241F"
+    ],
+    [
+      "Dominic et Martin",
+      "jul. 26, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/e8c/055c4c69-3665-47ee-8de0-61653a796e8c_1705631_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/dominic-et-martin-brossard-quebec-07-26-2024/event/31005F74D1622F24"
+    ],
+    [
+      "LE DÎNER DE CONS",
+      "jul. 27, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/le-diner-de-cons-brossard-quebec-07-27-2024/event/31005EF4BEEF2466"
+    ],
+    [
+      "LE DÎNER DE CONS",
+      "jul. 28, 2024",
+      "Sun • 3:00pm",
+      "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/le-diner-de-cons-brossard-quebec-07-28-2024/event/31005EF4BFD124BB"
+    ],
+    [
+      "Starmania L'Opéra Rock",
+      "Aug 6, 2024",
+      "Tue • 8:00pm",
+      "https://s1.ticketm.net/dam/a/c9f/0c7641f3-9bfe-4088-a727-302f54787c9f_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/starmania-lopera-rock-laval-quebec-08-06-2024/event/31005F58EA9E42E5"
+    ],
+    [
+      "Starmania L'Opéra Rock",
+      "Aug 7, 2024",
+      "Wed • 8:00pm",
+      "https://s1.ticketm.net/dam/a/c9f/0c7641f3-9bfe-4088-a727-302f54787c9f_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/starmania-lopera-rock-laval-quebec-08-07-2024/event/31005F58EAA142ED"
+    ],
+    [
+      "Starmania L'Opéra Rock",
+      "Aug 8, 2024",
+      "Thu • 8:00pm",
+      "https://s1.ticketm.net/dam/a/c9f/0c7641f3-9bfe-4088-a727-302f54787c9f_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/starmania-lopera-rock-laval-quebec-08-08-2024/event/31005F58EAA442F4"
+    ],
+    [
+      "Starmania L'Opéra Rock",
+      "Aug 9, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/c9f/0c7641f3-9bfe-4088-a727-302f54787c9f_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/starmania-lopera-rock-laval-quebec-08-09-2024/event/31005F58EAA742FD"
+    ],
+    [
+      "Starmania L'Opéra Rock",
+      "Aug 10, 2024",
+      "Sat • 3:00pm",
+      "https://s1.ticketm.net/dam/a/c9f/0c7641f3-9bfe-4088-a727-302f54787c9f_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/starmania-lopera-rock-laval-quebec-08-10-2024/event/31005F58EAA94304"
+    ],
+    [
+      "Starmania L'Opéra Rock",
+      "Aug 10, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/c9f/0c7641f3-9bfe-4088-a727-302f54787c9f_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/starmania-lopera-rock-laval-quebec-08-10-2024/event/31005F58EAAC4319"
+    ],
+    [
+      "Starmania L'Opéra Rock",
+      "Aug 11, 2024",
+      "Sun • 8:00pm",
+      "https://s1.ticketm.net/dam/a/c9f/0c7641f3-9bfe-4088-a727-302f54787c9f_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/starmania-lopera-rock-laval-quebec-08-11-2024/event/31005F58EAAF431B"
+    ],
+    [
+      "Mike Ward",
+      "Aug 14, 2024",
+      "Wed • 8:00pm",
+      "https://s1.ticketm.net/dam/a/743/5bf26c12-5944-40f9-88c8-32c2de110743_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/mike-ward-brossard-quebec-08-14-2024/event/31005F7BA89624F5"
+    ],
+    [
+      "Mike Ward",
+      "Aug 15, 2024",
+      "Thu • 8:00pm",
+      "https://s1.ticketm.net/dam/a/743/5bf26c12-5944-40f9-88c8-32c2de110743_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/mike-ward-brossard-quebec-08-15-2024/event/31005F7BBE5F2A10"
+    ],
+    [
+      "Symphorien",
+      "Aug 16, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/symphorien-brossard-quebec-08-16-2024/event/31005F66C8B43228"
+    ],
+    [
+      "Symphorien",
+      "Aug 17, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/symphorien-brossard-quebec-08-17-2024/event/31005F66CA8132B0"
+    ],
+    [
+      "Le Pere Noel Est Une Ordure",
+      "Aug 23, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/617/043c9783-09c7-45c2-887a-d1c9baf82617_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/le-pere-noel-est-une-ordure-brossard-quebec-08-23-2024/event/31005EDB8C5E129A"
+    ],
+    [
+      "Le Pere Noel Est Une Ordure",
+      "Aug 24, 2024",
+      "Sat • 3:00pm",
+      "https://s1.ticketm.net/dam/a/617/043c9783-09c7-45c2-887a-d1c9baf82617_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/le-pere-noel-est-une-ordure-brossard-quebec-08-24-2024/event/31005EDB8DE6131B"
+    ],
+    [
+      "Le Pere Noel Est Une Ordure",
+      "Aug 24, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/617/043c9783-09c7-45c2-887a-d1c9baf82617_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/le-pere-noel-est-une-ordure-brossard-quebec-08-24-2024/event/31005EDB91BA1420"
+    ],
+    [
+      "Le Pere Noel Est Une Ordure",
+      "Aug 30, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/617/043c9783-09c7-45c2-887a-d1c9baf82617_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/le-pere-noel-est-une-ordure-brossard-quebec-08-30-2024/event/31005EDB95051591"
+    ],
+    [
+      "Le Pere Noel Est Une Ordure",
+      "Aug 31, 2024",
+      "Sat • 3:00pm",
+      "https://s1.ticketm.net/dam/a/617/043c9783-09c7-45c2-887a-d1c9baf82617_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/le-pere-noel-est-une-ordure-brossard-quebec-08-31-2024/event/31005EDB98F31746"
+    ],
+    [
+      "Le Pere Noel Est Une Ordure",
+      "Aug 31, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/617/043c9783-09c7-45c2-887a-d1c9baf82617_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/le-pere-noel-est-une-ordure-brossard-quebec-08-31-2024/event/31005EDBC334284D"
+    ],
+    [
+      "Alexandra StreliskiPresale:\n Thu • Dec 7 • 2 PM",
+      "Sep 11, 2024",
+      "Wed • 8:00pm",
+      "https://s1.ticketm.net/dam/a/1e7/fdec8d41-1a77-47d6-a442-01ed0f8391e7_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/alexandra-streliski-brossard-quebec-09-11-2024/event/31005F84D3B42E34"
+    ],
+    [
+      "Mike Ward",
+      "Sep 19, 2024",
+      "Thu • 8:00pm",
+      "https://s1.ticketm.net/dam/a/743/5bf26c12-5944-40f9-88c8-32c2de110743_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/mike-ward-brossard-quebec-09-19-2024/event/31005F5BC1D22E69"
+    ],
+    [
+      "Mike Ward",
+      "Sep 20, 2024",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/a/743/5bf26c12-5944-40f9-88c8-32c2de110743_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/mike-ward-brossard-quebec-09-20-2024/event/31005F5BC67B3022"
+    ],
+    [
+      "Il était une voix… PIAF",
+      "Oct 13, 2024",
+      "Sun • 3:00pm",
+      "https://s1.ticketm.net/dam/a/1a2/6ec439c6-8177-40bd-889f-43f47ed971a2_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/il-etait-une-voix-piaf-brossard-quebec-10-13-2024/event/31005F74C7D92CAD"
+    ],
+    [
+      "Arthur l'aventurier",
+      "Oct 27, 2024",
+      "Sun • 3:00pm",
+      "https://s1.ticketm.net/dam/a/32f/99dbb97e-fe24-4c81-9205-37e7af7dd32f_721821_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/arthur-laventurier-brossard-quebec-10-27-2024/event/31005F6EC54A3B05"
+    ],
+    [
+      "Louis T - Mâle Alpha",
+      "nov. 2, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/535/36a848bf-f1fb-422f-9e20-95a2c072b535_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/louis-t-male-alpha-brossard-quebec-11-02-2024/event/31005F7BC75F2D4B"
+    ],
+    [
+      "Le PèrePresale:\n Thu • Dec 7 • 2 PM",
+      "nov. 9, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/le-pere-brossard-quebec-11-09-2024/event/31005F84D50D2E70"
+    ],
+    [
+      "Broue",
+      "nov. 12, 2024",
+      "Tue • 8:00pm",
+      "https://s1.ticketm.net/dam/a/353/9f09b6f0-1705-4a0b-91c4-195ce08e7353_1225861_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/broue-brossard-quebec-11-12-2024/event/31005F539F4F1C16"
+    ],
+    [
+      "Laura LauneNew date",
+      "nov. 13, 2024",
+      "Wed • 8:30pm",
+      "https://s1.ticketm.net/dam/a/7c0/4c6e8107-d43c-4ffd-a609-fb2a3a0537c0_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/laura-laune-montreal-quebec-11-13-2024/event/31005F77FF374D72"
+    ],
+    [
+      "Laura Laune",
+      "nov. 14, 2024",
+      "Thu • 8:30pm",
+      "https://s1.ticketm.net/dam/a/7c0/4c6e8107-d43c-4ffd-a609-fb2a3a0537c0_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/laura-laune-montreal-quebec-11-14-2024/event/31005F51D23D2E54"
+    ],
+    [
+      "Mona de Grenoble - De la poudre aux yeux",
+      "nov. 19, 2024",
+      "Tue • 8:00pm",
+      "https://s1.ticketm.net/dam/a/60a/673c305d-c66e-4456-a767-95e4c0a5e60a_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/mona-de-grenoble-de-la-poudre-montreal-quebec-11-19-2024/event/31005F68BD5B2D26"
+    ],
+    [
+      "Sebastian Maniscalco: It Ain't Right Tour",
+      "nov. 21, 2024",
+      "Thu • 7:30pm",
+      "https://s1.ticketm.net/dam/a/8ef/11598d88-900d-4db6-b796-e9e6ef1158ef_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/sebastian-maniscalco-it-aint-right-tour-montreal-quebec-11-21-2024/event/31005F749C311BDE"
+    ],
+    [
+      "Mona de Grenoble",
+      "nov. 21, 2024",
+      "Thu • 8:00pm",
+      "https://s1.ticketm.net/dam/a/60a/673c305d-c66e-4456-a767-95e4c0a5e60a_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/mona-de-grenoble-brossard-quebec-11-21-2024/event/31005F7BC0942A7F"
+    ],
+    [
+      "Michel Barrette",
+      "nov. 27, 2024",
+      "Wed • 8:00pm",
+      "https://s1.ticketm.net/dam/a/26c/7df4bd94-2d7f-4f69-a132-82e567eeb26c_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/michel-barrette-brossard-quebec-11-27-2024/event/31005F2BA1A11D92"
+    ],
+    [
+      "Alain Choquette",
+      "Dec 8, 2024",
+      "Sun • 4:00pm",
+      "https://s1.ticketm.net/dam/a/3fb/3854333e-2d87-4564-a6ae-25ec845cd3fb_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/alain-choquette-brossard-quebec-12-08-2024/event/31005F7BC60A2CC3"
+    ],
+    [
+      "Gad Elmaleh",
+      "Dec 11, 2024",
+      "Wed • 8:00pm",
+      "https://s1.ticketm.net/dam/a/a3d/eaec1f5f-62fb-4b61-9fc1-996f4825fa3d_733121_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/gad-elmaleh-montreal-quebec-12-11-2024/event/31005F71DA0F51EA"
+    ],
+    [
+      "José Gaudet",
+      "jan. 11, 2025",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/205/e75a57d4-faf5-428f-8600-9313b8c99205_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/jose-gaudet-brossard-quebec-01-11-2025/event/31005F66CFD134F8"
+    ],
+    [
+      "Belmont",
+      "mar. 22, 2025",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/belmont-brossard-quebec-03-22-2025/event/31005F53A19B1C90"
+    ],
+    [
+      "FranjoOn Sale:\n Wed • Dec 6 • 2 PM",
+      "May 2, 2025",
+      "Fri • 8:00pm",
+      "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/franjo-montreal-quebec-05-02-2025/event/31005F81BE263BA3"
+    ]
+  ]
+}
