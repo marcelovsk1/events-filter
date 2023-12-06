@@ -1,0 +1,783 @@
+{
+  "range": "'Página1'!A1:Z1000",
+  "majorDimension": "ROWS",
+  "values": [
+    [
+      "Event Title ",
+      "Date",
+      "Time",
+      "Image",
+      "Link"
+    ],
+    [
+      "AEW Presents Collision",
+      "Dec 5",
+      "Tue • 7:30pm",
+      "https://s1.ticketm.net/dam/a/b8f/16ccf988-39cd-4d2a-987e-a4af6d25cb8f_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/aew-presents-collision-montreal-quebec-12-05-2023/event/31005F27F86D4CAB"
+    ],
+    [
+      "Rocket de Laval vs. Belleville Senators",
+      "Dec 6",
+      "Wed • 7:00pm",
+      "https://s1.ticketm.net/dam/a/3cd/9267dbdd-f12f-44b9-b81f-8503945aa3cd_806971_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/rocket-de-laval-vs-belleville-senators-laval-quebec-12-06-2023/event/31005F18CA163456"
+    ],
+    [
+      "Lions de Trois-Rivieres V Maine Mariners - Mercredis Hot-dogs 2$",
+      "Dec 6",
+      "Wed • 7:00pm",
+      "https://s1.ticketm.net/dam/a/7a3/5c82ced4-58b7-4727-be7e-abb6d91cd7a3_1526691_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/lions-de-troisrivieres-v-maine-mariners-troisrivieres-quebec-12-06-2023/event/31005F390BD94090"
+    ],
+    [
+      "AEW Presents Dynamite/Rampage",
+      "Dec 6",
+      "Wed • 7:30pm",
+      "https://s1.ticketm.net/dam/a/b8f/16ccf988-39cd-4d2a-987e-a4af6d25cb8f_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/aew-presents-dynamiterampage-montreal-quebec-12-06-2023/event/31005F27F9064CD2"
+    ],
+    [
+      "Montreal Canadiens vs. Los Angeles Kings",
+      "Dec 7",
+      "Thu • 7:00pm",
+      "https://s1.ticketm.net/dam/a/233/14e6e251-9e0e-43a5-9c40-7b0d63267233_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/montreal-canadiens-vs-los-angeles-kings-montreal-quebec-12-07-2023/event/31005EF47AA60F06"
+    ],
+    [
+      "Rocket de Laval vs. Hartford Wolf Pack",
+      "Dec 8",
+      "Fri • 7:00pm",
+      "https://s1.ticketm.net/dam/a/3cd/9267dbdd-f12f-44b9-b81f-8503945aa3cd_806971_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/rocket-de-laval-vs-hartford-wolf-laval-quebec-12-08-2023/event/31005F18CA18345D"
+    ],
+    [
+      "Vermont Catamounts Hockey vs. Union College Fighting Dutchmen Hockey",
+      "Dec 8",
+      "Fri • 7:00pm",
+      "https://s1.ticketm.net/dam/c/61c/37e6dc36-b80c-45a5-9bc5-960c7a98161c_106321_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1A7ZzAx?tmrid=TMR-4038162&routing=y"
+    ],
+    [
+      "Clarkson Golden Knights Mens Hockey vs. Stonehill Skyhawks Mens Hockey",
+      "Dec 8",
+      "Fri • 7:00pm",
+      "https://s1.ticketm.net/dam/c/61c/37e6dc36-b80c-45a5-9bc5-960c7a98161c_106321_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1AdJAja?tmrid=TMR-3985709&routing=y"
+    ],
+    [
+      "L'Armada recoit Les Huskies de Rouyn-Noranda",
+      "Dec 8",
+      "Fri • 7:30pm",
+      "https://s1.ticketm.net/dam/a/b80/552461dd-f3c6-4940-8717-2138b31b5b80_148231_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/larmada-recoit-les-huskies-de-rouynnoranda-boisbriand-quebec-12-08-2023/event/31005EE675A90D80"
+    ],
+    [
+      "Vermont Catamounts Mens Basketball vs. Colgate Red Raiders Mens Basketball",
+      "Dec 9",
+      "Sat • 2:00pm",
+      "https://s1.ticketm.net/dam/c/8d5/f95bdd17-1d94-4e98-9295-641e4db558d5_105621_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1A7ZNQo?tmrid=TMR-4023691&routing=y"
+    ],
+    [
+      "Rocket de Laval vs. Hartford Wolf Pack",
+      "Dec 9",
+      "Sat • 3:00pm",
+      "https://s1.ticketm.net/dam/a/3cd/9267dbdd-f12f-44b9-b81f-8503945aa3cd_806971_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/rocket-de-laval-vs-hartford-wolf-laval-quebec-12-09-2023/event/31005F18CA1B346C"
+    ],
+    [
+      "L'Armada recoit Les Foreurs de Val d'Or",
+      "Dec 9",
+      "Sat • 4:00pm",
+      "https://s1.ticketm.net/dam/a/b80/552461dd-f3c6-4940-8717-2138b31b5b80_148231_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/larmada-recoit-les-foreurs-de-val-boisbriand-quebec-12-09-2023/event/31005EE675AB0D82"
+    ],
+    [
+      "Vermont Catamounts Hockey vs. Union College Fighting Dutchmen Hockey",
+      "Dec 9",
+      "Sat • 7:00pm",
+      "https://s1.ticketm.net/dam/c/61c/37e6dc36-b80c-45a5-9bc5-960c7a98161c_106321_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1A7ZzAN?tmrid=TMR-4038163&routing=y"
+    ],
+    [
+      "Clarkson Golden Knights Mens Hockey vs. US National Under 18 Hockey",
+      "Dec 9",
+      "Sat • 7:00pm",
+      "https://s1.ticketm.net/dam/c/61c/37e6dc36-b80c-45a5-9bc5-960c7a98161c_106321_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1AdJAj8?tmrid=TMR-3985710&routing=y"
+    ],
+    [
+      "Montreal Canadiens vs. Nashville Predators",
+      "Dec 10",
+      "Sun • 7:00pm",
+      "https://s1.ticketm.net/dam/a/233/14e6e251-9e0e-43a5-9c40-7b0d63267233_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/montreal-canadiens-vs-nashville-predators-montreal-quebec-12-10-2023/event/31005EF47AA90F08"
+    ],
+    [
+      "Montreal Canadiens vs. Pittsburgh Penguins",
+      "Dec 13",
+      "Wed • 7:00pm",
+      "https://s1.ticketm.net/dam/a/233/14e6e251-9e0e-43a5-9c40-7b0d63267233_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/montreal-canadiens-vs-pittsburgh-penguins-montreal-quebec-12-13-2023/event/31005EF47AF30F44"
+    ],
+    [
+      "Lions de Trois-Rivieres V Norfolk Admirals - Mercredis Hot-dogs 2$",
+      "Dec 13",
+      "Wed • 7:00pm",
+      "https://s1.ticketm.net/dam/a/7a3/5c82ced4-58b7-4727-be7e-abb6d91cd7a3_1526691_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/lions-de-troisrivieres-v-norfolk-admirals-troisrivieres-quebec-12-13-2023/event/31005F390BDB4094"
+    ],
+    [
+      "Lions de Trois-Rivieres V Norfolk Admirals - Vendredis DJ - SDJTR",
+      "Dec 15",
+      "Fri • 7:00pm",
+      "https://s1.ticketm.net/dam/a/7a3/5c82ced4-58b7-4727-be7e-abb6d91cd7a3_1526691_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/lions-de-troisrivieres-v-norfolk-admirals-troisrivieres-quebec-12-15-2023/event/31005F390B7E402C"
+    ],
+    [
+      "Lions de Trois-Rivieres V Norfolk Admirals - Lutins en Fête",
+      "Dec 16",
+      "Sat • 3:00pm",
+      "https://s1.ticketm.net/dam/a/7a3/5c82ced4-58b7-4727-be7e-abb6d91cd7a3_1526691_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/lions-de-troisrivieres-v-norfolk-admirals-troisrivieres-quebec-12-16-2023/event/31005F390BDD409A"
+    ],
+    [
+      "Montreal Canadiens vs. New York Islanders",
+      "Dec 16",
+      "Sat • 7:00pm",
+      "https://s1.ticketm.net/dam/a/233/14e6e251-9e0e-43a5-9c40-7b0d63267233_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/montreal-canadiens-vs-new-york-islanders-montreal-quebec-12-16-2023/event/31005EF47B140F7A"
+    ],
+    [
+      "Lions de Trois-Rivieres V Adirondack Thunder - Mercredis Hot-dogs 2$",
+      "Dec 20",
+      "Wed • 7:00pm",
+      "https://s1.ticketm.net/dam/a/7a3/5c82ced4-58b7-4727-be7e-abb6d91cd7a3_1526691_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/lions-de-troisrivieres-v-adirondack-thunder-troisrivieres-quebec-12-20-2023/event/31005F390BDF409C"
+    ],
+    [
+      "Rocket de Laval vs. Wilkes Barre Scranton Penguins",
+      "Dec 22",
+      "Fri • 7:00pm",
+      "https://s1.ticketm.net/dam/a/3cd/9267dbdd-f12f-44b9-b81f-8503945aa3cd_806971_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/rocket-de-laval-vs-wilkes-barre-laval-quebec-12-22-2023/event/31005F18CA1D346E"
+    ],
+    [
+      "Lions de Trois-Rivieres V Terre-Neuve Growlers - Mercredis Hot-dogs 2$",
+      "Dec 27",
+      "Wed • 7:00pm",
+      "https://s1.ticketm.net/dam/a/7a3/5c82ced4-58b7-4727-be7e-abb6d91cd7a3_1526691_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/lions-de-troisrivieres-v-terreneuve-growlers-troisrivieres-quebec-12-27-2023/event/31005F390BE040A0"
+    ],
+    [
+      "WWE Live Holiday Tour",
+      "Dec 28",
+      "Thu • 7:30pm",
+      "https://s1.ticketm.net/dam/a/380/bf11c4a6-7591-40d0-babc-f357525e0380_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/wwe-live-holiday-tour-laval-quebec-12-28-2023/event/31005EF9E68D434A"
+    ],
+    [
+      "Rocket de Laval vs. Syracuse Crunch",
+      "Dec 29",
+      "Fri • 7:00pm",
+      "https://s1.ticketm.net/dam/a/3cd/9267dbdd-f12f-44b9-b81f-8503945aa3cd_806971_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/rocket-de-laval-vs-syracuse-crunch-laval-quebec-12-29-2023/event/31005F18CA203472"
+    ],
+    [
+      "Vermont Catamounts Hockey vs. St. Thomas Tommies Hockey",
+      "Dec 29",
+      "Fri • 7:00pm",
+      "https://s1.ticketm.net/dam/c/61c/37e6dc36-b80c-45a5-9bc5-960c7a98161c_106321_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1A7ZzA0?tmrid=TMR-4038164&routing=y"
+    ],
+    [
+      "Lions de Trois-Rivieres V Terre-Neuve Growlers - Vendredis DJ - SDJTR",
+      "Dec 29",
+      "Fri • 7:00pm",
+      "https://s1.ticketm.net/dam/a/7a3/5c82ced4-58b7-4727-be7e-abb6d91cd7a3_1526691_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/lions-de-troisrivieres-v-terreneuve-growlers-troisrivieres-quebec-12-29-2023/event/31005F390B80402E"
+    ],
+    [
+      "Rocket de Laval vs. Syracuse Crunch",
+      "Dec 30",
+      "Sat • 3:00pm",
+      "https://s1.ticketm.net/dam/a/3cd/9267dbdd-f12f-44b9-b81f-8503945aa3cd_806971_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/rocket-de-laval-vs-syracuse-crunch-laval-quebec-12-30-2023/event/31005F18CA223474"
+    ],
+    [
+      "L'Armada recoit Les Voltigeurs de Drummonville",
+      "Dec 30",
+      "Sat • 4:00pm",
+      "https://s1.ticketm.net/dam/a/b80/552461dd-f3c6-4940-8717-2138b31b5b80_148231_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/larmada-recoit-les-voltigeurs-de-drummonville-boisbriand-quebec-12-30-2023/event/31005EE675AC0D86"
+    ],
+    [
+      "Vermont Catamounts Hockey vs. St. Thomas Tommies Hockey",
+      "Dec 30",
+      "Sat • 5:00pm",
+      "https://s1.ticketm.net/dam/c/61c/37e6dc36-b80c-45a5-9bc5-960c7a98161c_106321_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1A7ZzAP?tmrid=TMR-4038165&routing=y"
+    ],
+    [
+      "L'Armada recoit Les Foreurs de Val d'Or",
+      "jan. 3, 2024",
+      "Wed • 7:00pm",
+      "https://s1.ticketm.net/dam/a/b80/552461dd-f3c6-4940-8717-2138b31b5b80_148231_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/larmada-recoit-les-foreurs-de-val-boisbriand-quebec-01-03-2024/event/31005EE675770CF8"
+    ],
+    [
+      "Lions de Trois-Rivieres V Adirondack Thunder - Mercredis Hot-dogs 2$",
+      "jan. 3, 2024",
+      "Wed • 7:00pm",
+      "https://s1.ticketm.net/dam/a/7a3/5c82ced4-58b7-4727-be7e-abb6d91cd7a3_1526691_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/lions-de-troisrivieres-v-adirondack-thunder-troisrivieres-quebec-01-03-2024/event/31005F390BBE4051"
+    ],
+    [
+      "Montreal Canadiens vs. Buffalo Sabres",
+      "jan. 4, 2024",
+      "Thu • 7:00pm",
+      "https://s1.ticketm.net/dam/a/233/14e6e251-9e0e-43a5-9c40-7b0d63267233_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/montreal-canadiens-vs-buffalo-sabres-montreal-quebec-01-04-2024/event/31005EF47A750ED1"
+    ],
+    [
+      "Vermont Catamounts Mens Basketball vs. Maine Black Bears Mens Basketball",
+      "jan. 6, 2024",
+      "Sat • 2:00pm",
+      "https://s1.ticketm.net/dam/c/8d5/f95bdd17-1d94-4e98-9295-641e4db558d5_105621_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1AdJKrd?tmrid=TMR-3993783&routing=y"
+    ],
+    [
+      "Montreal Canadiens vs. New York Rangers",
+      "jan. 6, 2024",
+      "Sat • 7:00pm",
+      "https://s1.ticketm.net/dam/a/233/14e6e251-9e0e-43a5-9c40-7b0d63267233_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/montreal-canadiens-vs-new-york-rangers-montreal-quebec-01-06-2024/event/31005EF47B1A0F88"
+    ],
+    [
+      "Rocket de Laval vs. Utica Comets",
+      "jan. 10, 2024",
+      "Wed • 7:00pm",
+      "https://s1.ticketm.net/dam/a/3cd/9267dbdd-f12f-44b9-b81f-8503945aa3cd_806971_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/rocket-de-laval-vs-utica-comets-laval-quebec-01-10-2024/event/31005F18C9D83367"
+    ],
+    [
+      "Montreal Canadiens vs. San Jose Sharks",
+      "jan. 11, 2024",
+      "Thu • 7:00pm",
+      "https://s1.ticketm.net/dam/a/233/14e6e251-9e0e-43a5-9c40-7b0d63267233_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/montreal-canadiens-vs-san-jose-sharks-montreal-quebec-01-11-2024/event/31005EF47A770ED5"
+    ],
+    [
+      "Vermont Catamounts Mens Basketball vs. UMBC Retrievers Mens Basketball",
+      "jan. 11, 2024",
+      "Thu • 7:00pm",
+      "https://s1.ticketm.net/dam/c/8d5/f95bdd17-1d94-4e98-9295-641e4db558d5_105621_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1AdJKr7?tmrid=TMR-3993784&routing=y"
+    ],
+    [
+      "Rocket de Laval vs. Manitoba Moose",
+      "jan. 12, 2024",
+      "Fri • 7:00pm",
+      "https://s1.ticketm.net/dam/a/3cd/9267dbdd-f12f-44b9-b81f-8503945aa3cd_806971_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/rocket-de-laval-vs-manitoba-moose-laval-quebec-01-12-2024/event/31005F18C9DA3369"
+    ],
+    [
+      "Lions de Trois-Rivieres V Atlanta Gladiators - Vendredis DJ - SDJTR",
+      "jan. 12, 2024",
+      "Fri • 7:00pm",
+      "https://s1.ticketm.net/dam/a/7a3/5c82ced4-58b7-4727-be7e-abb6d91cd7a3_1526691_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/lions-de-troisrivieres-v-atlanta-gladiators-troisrivieres-quebec-01-12-2024/event/31005F390B693FEC"
+    ],
+    [
+      "Vermont Catamounts Mens Basketball vs. NJIT Highlanders Men's Basketball",
+      "jan. 13, 2024",
+      "Sat • 2:00pm",
+      "https://s1.ticketm.net/dam/c/8d5/f95bdd17-1d94-4e98-9295-641e4db558d5_105621_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1AdJKrA?tmrid=TMR-3993785&routing=y"
+    ],
+    [
+      "Rocket de Laval vs. Manitoba Moose",
+      "jan. 13, 2024",
+      "Sat • 3:00pm",
+      "https://s1.ticketm.net/dam/a/3cd/9267dbdd-f12f-44b9-b81f-8503945aa3cd_806971_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/rocket-de-laval-vs-manitoba-moose-laval-quebec-01-13-2024/event/31005F18C9DC336B"
+    ],
+    [
+      "Lions de Trois-Rivieres V Atlanta Gladiators - Match Marvel",
+      "jan. 13, 2024",
+      "Sat • 3:00pm",
+      "https://s1.ticketm.net/dam/a/7a3/5c82ced4-58b7-4727-be7e-abb6d91cd7a3_1526691_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/lions-de-troisrivieres-v-atlanta-gladiators-troisrivieres-quebec-01-13-2024/event/31005F390BC04053"
+    ],
+    [
+      "Montreal Canadiens vs. Edmonton Oilers",
+      "jan. 13, 2024",
+      "Sat • 7:00pm",
+      "https://s1.ticketm.net/dam/a/233/14e6e251-9e0e-43a5-9c40-7b0d63267233_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/montreal-canadiens-vs-edmonton-oilers-montreal-quebec-01-13-2024/event/31005EF47B1D0F8A"
+    ],
+    [
+      "Montreal Canadiens vs. Colorado Avalanche",
+      "jan. 15, 2024",
+      "Mon • 7:00pm",
+      "https://s1.ticketm.net/dam/a/233/14e6e251-9e0e-43a5-9c40-7b0d63267233_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/montreal-canadiens-vs-colorado-avalanche-montreal-quebec-01-15-2024/event/31005EF47AF50F48"
+    ],
+    [
+      "L'Armada recoit Les Wildcats de Moncton",
+      "jan. 17, 2024",
+      "Wed • 7:00pm",
+      "https://s1.ticketm.net/dam/a/b80/552461dd-f3c6-4940-8717-2138b31b5b80_148231_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/larmada-recoit-les-wildcats-de-moncton-boisbriand-quebec-01-17-2024/event/31005EE675790D00"
+    ],
+    [
+      "Rocket de Laval vs. Belleville Senators",
+      "jan. 19, 2024",
+      "Fri • 7:00pm",
+      "https://s1.ticketm.net/dam/a/3cd/9267dbdd-f12f-44b9-b81f-8503945aa3cd_806971_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/rocket-de-laval-vs-belleville-senators-laval-quebec-01-19-2024/event/31005F18C9DF3376"
+    ],
+    [
+      "Vermont Catamounts Hockey vs. Boston University Terriers Mens Ice Hockey",
+      "jan. 19, 2024",
+      "Fri • 7:00pm",
+      "https://s1.ticketm.net/dam/c/61c/37e6dc36-b80c-45a5-9bc5-960c7a98161c_106321_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1A7ZMF_?tmrid=TMR-4037219&routing=y"
+    ],
+    [
+      "Lions de Trois-Rivieres V Adirondack Thunder - Vendredis DJ - SDJTR",
+      "jan. 19, 2024",
+      "Fri • 7:00pm",
+      "https://s1.ticketm.net/dam/a/7a3/5c82ced4-58b7-4727-be7e-abb6d91cd7a3_1526691_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/lions-de-troisrivieres-v-adirondack-thunder-troisrivieres-quebec-01-19-2024/event/31005F390B6B3FF2"
+    ],
+    [
+      "Clarkson Golden Knights Mens Hockey vs. Yale Bulldogs Hockey",
+      "jan. 19, 2024",
+      "Fri • 7:00pm",
+      "https://s1.ticketm.net/dam/c/61c/37e6dc36-b80c-45a5-9bc5-960c7a98161c_106321_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1AdJAjo?tmrid=TMR-3985711&routing=y"
+    ],
+    [
+      "L'Armada recoit Les Remparts de Québec",
+      "jan. 19, 2024",
+      "Fri • 7:30pm",
+      "https://s1.ticketm.net/dam/a/b80/552461dd-f3c6-4940-8717-2138b31b5b80_148231_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/larmada-recoit-les-remparts-de-quebec-boisbriand-quebec-01-19-2024/event/31005EE6757A0D02"
+    ],
+    [
+      "Lions de Trois-Rivieres V Adirondack Thunder - Fête de la Mascotte",
+      "jan. 20, 2024",
+      "Sat • 3:00pm",
+      "https://s1.ticketm.net/dam/a/7a3/5c82ced4-58b7-4727-be7e-abb6d91cd7a3_1526691_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/lions-de-troisrivieres-v-adirondack-thunder-troisrivieres-quebec-01-20-2024/event/31005F390BC2405A"
+    ],
+    [
+      "Clarkson Golden Knights Mens Hockey vs. Brown University Bears Hockey",
+      "jan. 20, 2024",
+      "Sat • 4:00pm",
+      "https://s1.ticketm.net/dam/c/61c/37e6dc36-b80c-45a5-9bc5-960c7a98161c_106321_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1AdJAj3?tmrid=TMR-3985712&routing=y"
+    ],
+    [
+      "Vermont Catamounts Hockey vs. Boston University Terriers Mens Ice Hockey",
+      "jan. 20, 2024",
+      "Sat • 7:00pm",
+      "https://s1.ticketm.net/dam/c/61c/37e6dc36-b80c-45a5-9bc5-960c7a98161c_106321_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1A7Z4af?tmrid=TMR-4015254&routing=y"
+    ],
+    [
+      "IWS presente Praise The Violence 2024",
+      "jan. 20, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/a/b00/5e9e1d50-6d8b-4c4b-a3f5-857005d4fb00_1507221_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/iws-presente-praise-the-violence-2024-montreal-quebec-01-20-2024/event/31005F62B72F33E3"
+    ],
+    [
+      "L'Armada recoit Les Olympiques de Gatineau",
+      "jan. 21, 2024",
+      "Sun • 3:00pm",
+      "https://s1.ticketm.net/dam/a/b80/552461dd-f3c6-4940-8717-2138b31b5b80_148231_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/larmada-recoit-les-olympiques-de-gatineau-boisbriand-quebec-01-21-2024/event/31005EE6757B0D05"
+    ],
+    [
+      "Montreal Canadiens vs. Ottawa Senators",
+      "jan. 23, 2024",
+      "Tue • 7:00pm",
+      "https://s1.ticketm.net/dam/a/233/14e6e251-9e0e-43a5-9c40-7b0d63267233_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/montreal-canadiens-vs-ottawa-senators-montreal-quebec-01-23-2024/event/31005EF47A7A0ED8"
+    ],
+    [
+      "Rocket de Laval vs. Utica Comets",
+      "jan. 24, 2024",
+      "Wed • 7:00pm",
+      "https://s1.ticketm.net/dam/a/3cd/9267dbdd-f12f-44b9-b81f-8503945aa3cd_806971_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/rocket-de-laval-vs-utica-comets-laval-quebec-01-24-2024/event/31005F18C9E03380"
+    ],
+    [
+      "Montreal Canadiens vs. New York Islanders",
+      "jan. 25, 2024",
+      "Thu • 7:00pm",
+      "https://s1.ticketm.net/dam/a/233/14e6e251-9e0e-43a5-9c40-7b0d63267233_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/montreal-canadiens-vs-new-york-islanders-montreal-quebec-01-25-2024/event/31005EF47A7D0EDA"
+    ],
+    [
+      "Boxe EOTTM - Rendez-vous avec Bzo et Ramirez!New date",
+      "jan. 25, 2024",
+      "Thu • 7:00pm",
+      "https://s1.ticketm.net/dam/a/b82/6b9bfa86-d86e-4eef-b14b-99fc3f9c1b82_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/boxe-eottm-rendezvous-avec-bzo-et-montreal-quebec-01-25-2024/event/31005F7EDAAE3E05"
+    ],
+    [
+      "Vermont Catamounts Hockey vs. New Hampshire Wildcats Hockey",
+      "jan. 26, 2024",
+      "Fri • 7:00pm",
+      "https://s1.ticketm.net/dam/c/61c/37e6dc36-b80c-45a5-9bc5-960c7a98161c_106321_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1A7ZMFb?tmrid=TMR-4037218&routing=y"
+    ],
+    [
+      "Lions De Trois-Rivieres V Maine Mariners - Vendredis DJ - SDJTR",
+      "jan. 26, 2024",
+      "Fri • 7:00pm",
+      "https://s1.ticketm.net/dam/a/7a3/5c82ced4-58b7-4727-be7e-abb6d91cd7a3_1526691_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/lions-de-troisrivieres-v-maine-mariners-troisrivieres-quebec-01-26-2024/event/31005F390B6C3FF4"
+    ],
+    [
+      "Clarkson Golden Knights Mens Hockey vs. St. Lawrence Saints Hockey",
+      "jan. 26, 2024",
+      "Fri • 7:00pm",
+      "https://s1.ticketm.net/dam/c/61c/37e6dc36-b80c-45a5-9bc5-960c7a98161c_106321_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1AdJAjK?tmrid=TMR-3985713&routing=y"
+    ],
+    [
+      "L'Armada recoit Les Tigres de Victoriaville",
+      "jan. 26, 2024",
+      "Fri • 7:30pm",
+      "https://s1.ticketm.net/dam/a/b80/552461dd-f3c6-4940-8717-2138b31b5b80_148231_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/larmada-recoit-les-tigres-de-victoriaville-boisbriand-quebec-01-26-2024/event/31005EE6757D0D0A"
+    ],
+    [
+      "Vermont Catamounts Hockey vs. New Hampshire Wildcats Hockey",
+      "jan. 27, 2024",
+      "Sat • 7:00pm",
+      "https://s1.ticketm.net/dam/c/61c/37e6dc36-b80c-45a5-9bc5-960c7a98161c_106321_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1A7Z4FI?tmrid=TMR-4015228&routing=y"
+    ],
+    [
+      "Rocket de Laval vs. Utica Comets",
+      "jan. 31, 2024",
+      "Wed • 7:00pm",
+      "https://s1.ticketm.net/dam/a/3cd/9267dbdd-f12f-44b9-b81f-8503945aa3cd_806971_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/rocket-de-laval-vs-utica-comets-laval-quebec-01-31-2024/event/31005F18C9E23398"
+    ],
+    [
+      "L'Armada recoit Les Huskies de Rouyn-Noranda",
+      "Feb 1, 2024",
+      "Thu • 7:00pm",
+      "https://s1.ticketm.net/dam/a/b80/552461dd-f3c6-4940-8717-2138b31b5b80_148231_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/larmada-recoit-les-huskies-de-rouynnoranda-boisbriand-quebec-02-01-2024/event/31005EE6757F0D11"
+    ],
+    [
+      "Vermont Catamounts Mens Basketball vs. Albany Great Danes Mens Basketball",
+      "Feb 1, 2024",
+      "Thu • 7:00pm",
+      "https://s1.ticketm.net/dam/c/8d5/f95bdd17-1d94-4e98-9295-641e4db558d5_105621_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1AdJKrk?tmrid=TMR-3993786&routing=y"
+    ],
+    [
+      "Rocket de Laval vs. Rochester Americans",
+      "Feb 2, 2024",
+      "Fri • 7:00pm",
+      "https://s1.ticketm.net/dam/a/3cd/9267dbdd-f12f-44b9-b81f-8503945aa3cd_806971_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/rocket-de-laval-vs-rochester-americans-laval-quebec-02-02-2024/event/31005F18C9E433AB"
+    ],
+    [
+      "Lions de Trois-Rivieres V Worcester Railers - Vendredis DJ - SDJTR",
+      "Feb 2, 2024",
+      "Fri • 7:00pm",
+      "https://s1.ticketm.net/dam/a/7a3/5c82ced4-58b7-4727-be7e-abb6d91cd7a3_1526691_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/lions-de-troisrivieres-v-worcester-railers-troisrivieres-quebec-02-02-2024/event/31005F390B6E3FF6"
+    ],
+    [
+      "Vermont Catamounts Mens Basketball vs. Binghamton Bearcats Mens Basketball",
+      "Feb 3, 2024",
+      "Sat • 2:00pm",
+      "https://s1.ticketm.net/dam/c/8d5/f95bdd17-1d94-4e98-9295-641e4db558d5_105621_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1AdJKr6?tmrid=TMR-3993787&routing=y"
+    ],
+    [
+      "Rocket de Laval vs. Rochester Americans",
+      "Feb 3, 2024",
+      "Sat • 3:00pm",
+      "https://s1.ticketm.net/dam/a/3cd/9267dbdd-f12f-44b9-b81f-8503945aa3cd_806971_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/rocket-de-laval-vs-rochester-americans-laval-quebec-02-03-2024/event/31005F18C9E633AD"
+    ],
+    [
+      "Lions de Trois-Rivieres v Worcester Railers",
+      "Feb 3, 2024",
+      "Sat • 3:00pm",
+      "https://s1.ticketm.net/dam/a/7a3/5c82ced4-58b7-4727-be7e-abb6d91cd7a3_1526691_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/lions-de-troisrivieres-v-worcester-railers-troisrivieres-quebec-02-03-2024/event/31005F390BC44061"
+    ],
+    [
+      "L'Armada recoit L'Océanic de Rimouski",
+      "Feb 3, 2024",
+      "Sat • 4:00pm",
+      "https://s1.ticketm.net/dam/a/b80/552461dd-f3c6-4940-8717-2138b31b5b80_148231_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/larmada-recoit-loceanic-de-rimouski-boisbriand-quebec-02-03-2024/event/31005EE675800D15"
+    ],
+    [
+      "L'Armada recoit L'Océanic de Rimouski",
+      "Feb 4, 2024",
+      "Sun • 3:00pm",
+      "https://s1.ticketm.net/dam/a/b80/552461dd-f3c6-4940-8717-2138b31b5b80_148231_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/larmada-recoit-loceanic-de-rimouski-boisbriand-quebec-02-04-2024/event/31005EE675820D17"
+    ],
+    [
+      "L'Armada recoit Les Tigres de Victoriaville",
+      "Feb 8, 2024",
+      "Thu • 7:00pm",
+      "https://s1.ticketm.net/dam/a/b80/552461dd-f3c6-4940-8717-2138b31b5b80_148231_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/larmada-recoit-les-tigres-de-victoriaville-boisbriand-quebec-02-08-2024/event/31005EE675830D19"
+    ],
+    [
+      "Clarkson Golden Knights Mens Hockey vs. Princeton Tigers Hockey",
+      "Feb 9, 2024",
+      "Fri • 7:00pm",
+      "https://s1.ticketm.net/dam/c/61c/37e6dc36-b80c-45a5-9bc5-960c7a98161c_106321_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1AdJAfs?tmrid=TMR-3985531&routing=y"
+    ],
+    [
+      "Montreal Canadiens vs. Dallas Stars",
+      "Feb 10, 2024",
+      "Sat • 1:00pm",
+      "https://s1.ticketm.net/dam/a/233/14e6e251-9e0e-43a5-9c40-7b0d63267233_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/montreal-canadiens-vs-dallas-stars-montreal-quebec-02-10-2024/event/31005EF47AF80F4A"
+    ],
+    [
+      "L'Armada recoit Le Phoenix de Sherbrooke",
+      "Feb 10, 2024",
+      "Sat • 4:00pm",
+      "https://s1.ticketm.net/dam/a/b80/552461dd-f3c6-4940-8717-2138b31b5b80_148231_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/larmada-recoit-le-phoenix-de-sherbrooke-boisbriand-quebec-02-10-2024/event/31005EE675840D1D"
+    ],
+    [
+      "Clarkson Golden Knights Mens Hockey vs. Quinnipiac Bobcats Mens Basketball",
+      "Feb 10, 2024",
+      "Sat • 7:00pm",
+      "https://s1.ticketm.net/dam/c/61c/37e6dc36-b80c-45a5-9bc5-960c7a98161c_106321_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1AdJAfw?tmrid=TMR-3985532&routing=y"
+    ],
+    [
+      "Montreal Canadiens vs. St. Louis Blues",
+      "Feb 11, 2024",
+      "Sun • 1:00pm",
+      "https://s1.ticketm.net/dam/a/233/14e6e251-9e0e-43a5-9c40-7b0d63267233_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/montreal-canadiens-vs-st-louis-blues-montreal-quebec-02-11-2024/event/31005EF47AFA0F4C"
+    ],
+    [
+      "Montreal Canadiens vs. Anaheim Ducks",
+      "Feb 13, 2024",
+      "Tue • 7:00pm",
+      "https://s1.ticketm.net/dam/a/233/14e6e251-9e0e-43a5-9c40-7b0d63267233_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/montreal-canadiens-vs-anaheim-ducks-montreal-quebec-02-13-2024/event/31005EF47A7F0EDE"
+    ],
+    [
+      "Vermont Catamounts Mens Basketball vs. New Hampshire Wildcats Mens Basketball",
+      "Feb 15, 2024",
+      "Thu • 7:00pm",
+      "https://s1.ticketm.net/dam/c/8d5/f95bdd17-1d94-4e98-9295-641e4db558d5_105621_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1AdJKrF?tmrid=TMR-3993788&routing=y"
+    ],
+    [
+      "Toronto Rock V New York Riptide",
+      "Feb 16, 2024",
+      "Fri • 7:00pm",
+      "https://s1.ticketm.net/dam/a/cfa/f7e31e3b-edf3-4afb-b5cb-c12e46412cfa_1247451_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/toronto-rock-v-new-york-riptide-laval-quebec-02-16-2024/event/31005F6E80DA25F1"
+    ],
+    [
+      "Vermont Catamounts Hockey vs. Merrimack Warriors Hockey",
+      "Feb 16, 2024",
+      "Fri • 7:00pm",
+      "https://s1.ticketm.net/dam/c/61c/37e6dc36-b80c-45a5-9bc5-960c7a98161c_106321_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1A7ZMF-?tmrid=TMR-4037221&routing=y"
+    ],
+    [
+      "La tournée des Anciens Canadiens",
+      "Feb 17, 2024",
+      "Sat • 3:00pm",
+      "https://s1.ticketm.net/dam/c/61c/37e6dc36-b80c-45a5-9bc5-960c7a98161c_106321_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/la-tournee-des-anciens-canadiens-troisrivieres-quebec-02-17-2024/event/31005F390D3B412C"
+    ],
+    [
+      "Montreal Canadiens vs. Washington Capitals",
+      "Feb 17, 2024",
+      "Sat • 7:00pm",
+      "https://s1.ticketm.net/dam/a/233/14e6e251-9e0e-43a5-9c40-7b0d63267233_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/montreal-canadiens-vs-washington-capitals-montreal-quebec-02-17-2024/event/31005EF47B1F0F8C"
+    ],
+    [
+      "Vermont Catamounts Hockey vs. Merrimack Warriors Hockey",
+      "Feb 17, 2024",
+      "Sat • 7:30pm",
+      "https://s1.ticketm.net/dam/c/61c/37e6dc36-b80c-45a5-9bc5-960c7a98161c_106321_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1A7ZMF9?tmrid=TMR-4037217&routing=y"
+    ],
+    [
+      "Montreal Canadiens vs. Buffalo Sabres",
+      "Feb 21, 2024",
+      "Wed • 7:00pm",
+      "https://s1.ticketm.net/dam/a/233/14e6e251-9e0e-43a5-9c40-7b0d63267233_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/montreal-canadiens-vs-buffalo-sabres-montreal-quebec-02-21-2024/event/31005EF47A820EE0"
+    ],
+    [
+      "Rocket de Laval vs. Hershey Bears",
+      "Feb 21, 2024",
+      "Wed • 7:00pm",
+      "https://s1.ticketm.net/dam/a/3cd/9267dbdd-f12f-44b9-b81f-8503945aa3cd_806971_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/rocket-de-laval-vs-hershey-bears-laval-quebec-02-21-2024/event/31005F18C9E833B1"
+    ],
+    [
+      "Rocket de Laval vs. Toronto Marlies",
+      "Feb 23, 2024",
+      "Fri • 7:00pm",
+      "https://s1.ticketm.net/dam/a/3cd/9267dbdd-f12f-44b9-b81f-8503945aa3cd_806971_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/rocket-de-laval-vs-toronto-marlies-laval-quebec-02-23-2024/event/31005F18C9EA33B3"
+    ],
+    [
+      "Lions de Trois-Rivieres V Terre-Neuve Growlers - Vendredis DJ - SDJTR",
+      "Feb 23, 2024",
+      "Fri • 7:00pm",
+      "https://s1.ticketm.net/dam/a/7a3/5c82ced4-58b7-4727-be7e-abb6d91cd7a3_1526691_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/lions-de-troisrivieres-v-terreneuve-growlers-troisrivieres-quebec-02-23-2024/event/31005F390B704004"
+    ],
+    [
+      "Clarkson Golden Knights Mens Hockey vs. Cornell Big Red Hockey",
+      "Feb 23, 2024",
+      "Fri • 7:00pm",
+      "https://s1.ticketm.net/dam/c/61c/37e6dc36-b80c-45a5-9bc5-960c7a98161c_106321_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1AdJZxa?tmrid=TMR-3980889&routing=y"
+    ],
+    [
+      "Rocket de Laval vs. Toronto Marlies",
+      "Feb 24, 2024",
+      "Sat • 3:00pm",
+      "https://s1.ticketm.net/dam/a/3cd/9267dbdd-f12f-44b9-b81f-8503945aa3cd_806971_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/rocket-de-laval-vs-toronto-marlies-laval-quebec-02-24-2024/event/31005F18C9EC33B6"
+    ],
+    [
+      "Lions de Trois-Rivieres V Terre-Neuve Growlers - Match Western St-Tite",
+      "Feb 24, 2024",
+      "Sat • 3:00pm",
+      "https://s1.ticketm.net/dam/a/7a3/5c82ced4-58b7-4727-be7e-abb6d91cd7a3_1526691_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/lions-de-troisrivieres-v-terreneuve-growlers-troisrivieres-quebec-02-24-2024/event/31005F390BC64063"
+    ],
+    [
+      "L'Armada recoit Les Huskies de Rouyn-Noranda",
+      "Feb 24, 2024",
+      "Sat • 4:00pm",
+      "https://s1.ticketm.net/dam/a/b80/552461dd-f3c6-4940-8717-2138b31b5b80_148231_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/larmada-recoit-les-huskies-de-rouynnoranda-boisbriand-quebec-02-24-2024/event/31005EE675860D1F"
+    ],
+    [
+      "Vermont Catamounts Mens Basketball vs. Bryant Bulldogs Mens Basketball",
+      "Feb 24, 2024",
+      "Sat • 7:00pm",
+      "https://s1.ticketm.net/dam/c/8d5/f95bdd17-1d94-4e98-9295-641e4db558d5_105621_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1AdJKra?tmrid=TMR-3993789&routing=y"
+    ],
+    [
+      "Clarkson Golden Knights Mens Hockey vs. Colgate Red Raiders Hockey",
+      "Feb 24, 2024",
+      "Sat • 7:00pm",
+      "https://s1.ticketm.net/dam/c/61c/37e6dc36-b80c-45a5-9bc5-960c7a98161c_106321_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1AdJAfS?tmrid=TMR-3985533&routing=y"
+    ],
+    [
+      "L'Armada recoit Les Foreurs de Val d'Or",
+      "Feb 25, 2024",
+      "Sun • 3:00pm",
+      "https://s1.ticketm.net/dam/a/b80/552461dd-f3c6-4940-8717-2138b31b5b80_148231_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/larmada-recoit-les-foreurs-de-val-boisbriand-quebec-02-25-2024/event/31005EE675870D25"
+    ],
+    [
+      "Montreal Canadiens vs. Arizona Coyotes",
+      "Feb 27, 2024",
+      "Tue • 7:00pm",
+      "https://s1.ticketm.net/dam/a/233/14e6e251-9e0e-43a5-9c40-7b0d63267233_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/montreal-canadiens-vs-arizona-coyotes-montreal-quebec-02-27-2024/event/31005EF47A840EE2"
+    ],
+    [
+      "L'Armada recoit Les Islanders de Charlottetown",
+      "Feb 28, 2024",
+      "Wed • 7:00pm",
+      "https://s1.ticketm.net/dam/a/b80/552461dd-f3c6-4940-8717-2138b31b5b80_148231_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/larmada-recoit-les-islanders-de-charlottetown-boisbriand-quebec-02-28-2024/event/31005EE675890D27"
+    ],
+    [
+      "1er mars - Coupe du monde de plongeon - World Aquatics - Montréal 2024Presale:\n Happening now",
+      "mar. 1, 2024",
+      "Fri • 10:00am",
+      "https://s1.ticketm.net/dam/a/40f/7565bf2a-8118-4dc4-9c91-0f969cfd640f_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/1er-mars-coupe-du-monde-de-montreal-quebec-03-01-2024/event/31005F68E4EE3928"
+    ],
+    [
+      "Vermont Catamounts Hockey vs. Maine Black Bears Hockey",
+      "mar. 1, 2024",
+      "Fri • 7:00pm",
+      "https://s1.ticketm.net/dam/c/61c/37e6dc36-b80c-45a5-9bc5-960c7a98161c_106321_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1A7ZMFO?tmrid=TMR-4037220&routing=y"
+    ],
+    [
+      "2 mars - Coupe du monde de plongeon - World Aquatics - Montréal 2024Presale:\n Happening now",
+      "mar. 2, 2024",
+      "Sat • 10:00am",
+      "https://s1.ticketm.net/dam/a/40f/7565bf2a-8118-4dc4-9c91-0f969cfd640f_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/2-mars-coupe-du-monde-de-montreal-quebec-03-02-2024/event/31005F68E51B3936"
+    ],
+    [
+      "Vermont Catamounts Mens Basketball vs. UMass Lowell River Hawks Mens Basketball",
+      "mar. 2, 2024",
+      "Sat • 4:30pm",
+      "https://s1.ticketm.net/dam/c/8d5/f95bdd17-1d94-4e98-9295-641e4db558d5_105621_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1AdJKr8?tmrid=TMR-3993790&routing=y"
+    ],
+    [
+      "Vermont Catamounts Hockey vs. Maine Black Bears Hockey",
+      "mar. 2, 2024",
+      "Sat • 7:30pm",
+      "https://s1.ticketm.net/dam/c/61c/37e6dc36-b80c-45a5-9bc5-960c7a98161c_106321_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/event/Z7r9jZ1A7ZMFx?tmrid=TMR-4037222&routing=y"
+    ],
+    [
+      "IWS / Unfnsanctioned 25 Fn Years",
+      "mar. 2, 2024",
+      "Sat • 8:00pm",
+      "https://s1.ticketm.net/dam/c/fd9/1f5e7187-e73c-485b-b5d5-edbeb41c4fd9_106131_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/iws-unfnsanctioned-25-fn-years-montreal-quebec-03-02-2024/event/31005F57A6BE3891"
+    ],
+    [
+      "3 mars - Coupe du monde de plongeon - World Aquatics - Montréal 2024Presale:\n Happening now",
+      "mar. 3, 2024",
+      "Sun • 10:00am",
+      "https://s1.ticketm.net/dam/a/40f/7565bf2a-8118-4dc4-9c91-0f969cfd640f_SOURCE?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/3-mars-coupe-du-monde-de-montreal-quebec-03-03-2024/event/31005F68E5413963"
+    ],
+    [
+      "Rocket de Laval vs. Syracuse Crunch",
+      "mar. 6, 2024",
+      "Wed • 7:00pm",
+      "https://s1.ticketm.net/dam/a/3cd/9267dbdd-f12f-44b9-b81f-8503945aa3cd_806971_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/rocket-de-laval-vs-syracuse-crunch-laval-quebec-03-06-2024/event/31005F18C9EE33BA"
+    ],
+    [
+      "L'Armada recoit Le Phoenix de Sherbrooke",
+      "mar. 6, 2024",
+      "Wed • 7:00pm",
+      "https://s1.ticketm.net/dam/a/b80/552461dd-f3c6-4940-8717-2138b31b5b80_148231_TABLET_LANDSCAPE_LARGE_16_9.jpg?width=8&height=5&fit=crop&auto=webp",
+      "https://www.ticketmaster.ca/larmada-recoit-le-phoenix-de-sherbrooke-boisbriand-quebec-03-06-2024/event/31005EE6758A0D29"
+    ]
+  ]
+}
